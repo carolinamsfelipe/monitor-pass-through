@@ -1,0 +1,1405 @@
+fecha,serie_id,ipc_indice,producto,transable,justificacion
+2016-12-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,100.0,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2017-01-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,101.3024,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2017-02-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,103.1605,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2017-03-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,106.0143,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2017-04-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,108.3515,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2017-05-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,109.7631,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2017-06-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,110.7483,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2017-07-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,112.0115,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2017-08-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,114.3467,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2017-09-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,116.4048,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2017-10-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,118.1646,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2017-11-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,119.5688,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2017-12-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,120.36,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2018-01-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,122.8752,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2018-02-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,125.5566,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2018-03-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,128.469,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2018-04-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,129.9559,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2018-05-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,134.2019,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2018-06-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,141.151,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2018-07-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,146.7848,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2018-08-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,152.6743,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2018-09-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,163.3911,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2018-10-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,173.0007,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2018-11-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,178.8975,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2018-12-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,181.9359,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2019-01-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,188.0357,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2019-02-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,198.7818,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2019-03-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,210.628,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2019-04-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,215.9985,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2019-05-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,221.2588,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2019-06-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,226.9033,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2019-07-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,232.0295,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2019-08-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,242.5051,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2019-09-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,256.3757,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2019-10-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,262.6603,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2019-11-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,276.6339,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2019-12-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,285.297,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2020-01-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,298.6501,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2020-02-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,306.6182,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2020-03-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,318.6777,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2020-04-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,328.7785,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2020-05-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,331.0146,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2020-06-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,334.4636,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2020-07-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,338.7648,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2020-08-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,350.5076,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2020-09-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,360.8692,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2020-10-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,378.0896,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2020-11-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,388.3864,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2020-12-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,405.2871,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2021-01-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,424.8374,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2021-02-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,441.0722,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2021-03-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,461.3238,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2021-04-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,481.2407,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2021-05-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,496.1796,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2021-06-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,512.2593,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2021-07-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,529.7087,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2021-08-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,537.5867,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2021-09-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,553.4373,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2021-10-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,572.3293,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2021-11-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,584.4717,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2021-12-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,609.3311,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2022-01-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,639.405,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2022-02-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,687.1658,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2022-03-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,736.9451,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2022-04-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,780.1457,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2022-05-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,814.5693,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2022-06-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,852.1804,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2022-07-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,903.4609,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2022-08-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,967.5805,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2022-09-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,1032.8063,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2022-10-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,1096.5069,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2022-11-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,1135.001,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2022-12-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,1187.9252,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2023-01-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,1268.3385,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2023-02-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,1392.3999,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2023-03-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,1522.5337,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2023-04-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,1677.0441,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2023-05-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,1774.4119,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2023-06-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,1848.0332,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2023-07-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,1954.5101,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2023-08-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,2259.2334,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2023-09-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,2583.3826,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2023-10-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,2782.4454,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2023-11-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,3218.3702,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2023-12-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,4173.6759,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2024-01-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,5024.9656,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2024-02-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,5622.8372,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2024-03-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,6216.0451,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2024-04-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,6590.0877,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2024-05-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,6909.5535,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2024-06-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,7117.2232,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2024-07-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,7345.4071,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2024-08-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,7611.7813,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2024-09-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,7787.1421,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2024-10-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,7880.5855,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2024-11-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,7952.0427,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2024-12-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,8127.7647,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2025-01-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,8278.1147,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2025-02-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,8546.6547,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2025-03-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,9051.2822,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2025-04-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,9318.2093,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2025-05-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,9365.3121,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2025-06-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,9418.0826,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2025-07-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,9596.7407,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2025-08-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,9729.0211,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2025-09-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,9910.131,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2025-10-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,10136.6605,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2025-11-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,10421.9128,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2025-12-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,10748.4071,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2026-01-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,11251.1166,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2026-02-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,11624.9808,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2026-03-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,12014.7,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2026-04-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,12194.882,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2026-05-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,12494.9767,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2026-06-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,12657.4575,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2026-07-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,12907.5083,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2026-08-01,ipc_alimentos_bebidas_no_alcoholicas_nacional,13121.2544,Alimentos y Bebidas,1,Alta exposición a paridad de exportación y commodities
+2016-12-01,ipc_bebidas_alcoholicas_tabaco_nacional,100.0,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2017-01-01,ipc_bebidas_alcoholicas_tabaco_nacional,100.925,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2017-02-01,ipc_bebidas_alcoholicas_tabaco_nacional,105.2395,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2017-03-01,ipc_bebidas_alcoholicas_tabaco_nacional,107.2901,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2017-04-01,ipc_bebidas_alcoholicas_tabaco_nacional,109.8338,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2017-05-01,ipc_bebidas_alcoholicas_tabaco_nacional,111.7182,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2017-06-01,ipc_bebidas_alcoholicas_tabaco_nacional,112.4572,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2017-07-01,ipc_bebidas_alcoholicas_tabaco_nacional,115.794,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2017-08-01,ipc_bebidas_alcoholicas_tabaco_nacional,117.3256,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2017-09-01,ipc_bebidas_alcoholicas_tabaco_nacional,118.1383,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2017-10-01,ipc_bebidas_alcoholicas_tabaco_nacional,121.695,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2017-11-01,ipc_bebidas_alcoholicas_tabaco_nacional,123.0467,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2017-12-01,ipc_bebidas_alcoholicas_tabaco_nacional,123.7178,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2018-01-01,ipc_bebidas_alcoholicas_tabaco_nacional,126.558,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2018-02-01,ipc_bebidas_alcoholicas_tabaco_nacional,128.7394,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2018-03-01,ipc_bebidas_alcoholicas_tabaco_nacional,129.6226,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2018-04-01,ipc_bebidas_alcoholicas_tabaco_nacional,131.2858,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2018-05-01,ipc_bebidas_alcoholicas_tabaco_nacional,133.4078,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2018-06-01,ipc_bebidas_alcoholicas_tabaco_nacional,134.6168,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2018-07-01,ipc_bebidas_alcoholicas_tabaco_nacional,138.1218,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2018-08-01,ipc_bebidas_alcoholicas_tabaco_nacional,139.9915,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2018-09-01,ipc_bebidas_alcoholicas_tabaco_nacional,146.1856,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2018-10-01,ipc_bebidas_alcoholicas_tabaco_nacional,149.5775,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2018-11-01,ipc_bebidas_alcoholicas_tabaco_nacional,156.5108,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2018-12-01,ipc_bebidas_alcoholicas_tabaco_nacional,158.6722,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2019-01-01,ipc_bebidas_alcoholicas_tabaco_nacional,164.1486,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2019-02-01,ipc_bebidas_alcoholicas_tabaco_nacional,168.0165,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2019-03-01,ipc_bebidas_alcoholicas_tabaco_nacional,174.827,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2019-04-01,ipc_bebidas_alcoholicas_tabaco_nacional,176.6323,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2019-05-01,ipc_bebidas_alcoholicas_tabaco_nacional,180.4588,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2019-06-01,ipc_bebidas_alcoholicas_tabaco_nacional,185.3625,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2019-07-01,ipc_bebidas_alcoholicas_tabaco_nacional,186.9476,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2019-08-01,ipc_bebidas_alcoholicas_tabaco_nacional,195.1481,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2019-09-01,ipc_bebidas_alcoholicas_tabaco_nacional,206.218,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2019-10-01,ipc_bebidas_alcoholicas_tabaco_nacional,218.9538,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2019-11-01,ipc_bebidas_alcoholicas_tabaco_nacional,231.1972,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2019-12-01,ipc_bebidas_alcoholicas_tabaco_nacional,238.3667,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2020-01-01,ipc_bebidas_alcoholicas_tabaco_nacional,248.7265,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2020-02-01,ipc_bebidas_alcoholicas_tabaco_nacional,251.9682,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2020-03-01,ipc_bebidas_alcoholicas_tabaco_nacional,259.1936,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2020-04-01,ipc_bebidas_alcoholicas_tabaco_nacional,262.827,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2020-05-01,ipc_bebidas_alcoholicas_tabaco_nacional,263.0259,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2020-06-01,ipc_bebidas_alcoholicas_tabaco_nacional,272.9822,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2020-07-01,ipc_bebidas_alcoholicas_tabaco_nacional,276.7322,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2020-08-01,ipc_bebidas_alcoholicas_tabaco_nacional,280.3346,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2020-09-01,ipc_bebidas_alcoholicas_tabaco_nacional,292.3052,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2020-10-01,ipc_bebidas_alcoholicas_tabaco_nacional,297.8662,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2020-11-01,ipc_bebidas_alcoholicas_tabaco_nacional,306.7433,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2020-12-01,ipc_bebidas_alcoholicas_tabaco_nacional,317.1521,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2021-01-01,ipc_bebidas_alcoholicas_tabaco_nacional,331.4265,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2021-02-01,ipc_bebidas_alcoholicas_tabaco_nacional,343.3155,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2021-03-01,ipc_bebidas_alcoholicas_tabaco_nacional,365.3793,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2021-04-01,ipc_bebidas_alcoholicas_tabaco_nacional,378.4685,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2021-05-01,ipc_bebidas_alcoholicas_tabaco_nacional,384.5689,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2021-06-01,ipc_bebidas_alcoholicas_tabaco_nacional,405.6917,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2021-07-01,ipc_bebidas_alcoholicas_tabaco_nacional,418.2942,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2021-08-01,ipc_bebidas_alcoholicas_tabaco_nacional,426.7422,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2021-09-01,ipc_bebidas_alcoholicas_tabaco_nacional,451.7961,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2021-10-01,ipc_bebidas_alcoholicas_tabaco_nacional,461.7273,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2021-11-01,ipc_bebidas_alcoholicas_tabaco_nacional,466.8177,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2021-12-01,ipc_bebidas_alcoholicas_tabaco_nacional,491.9092,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2022-01-01,ipc_bebidas_alcoholicas_tabaco_nacional,500.7578,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2022-02-01,ipc_bebidas_alcoholicas_tabaco_nacional,514.0762,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2022-03-01,ipc_bebidas_alcoholicas_tabaco_nacional,543.6306,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2022-04-01,ipc_bebidas_alcoholicas_tabaco_nacional,561.8137,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2022-05-01,ipc_bebidas_alcoholicas_tabaco_nacional,593.5899,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2022-06-01,ipc_bebidas_alcoholicas_tabaco_nacional,633.4988,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2022-07-01,ipc_bebidas_alcoholicas_tabaco_nacional,674.3455,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2022-08-01,ipc_bebidas_alcoholicas_tabaco_nacional,721.689,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2022-09-01,ipc_bebidas_alcoholicas_tabaco_nacional,789.7014,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2022-10-01,ipc_bebidas_alcoholicas_tabaco_nacional,832.7248,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2022-11-01,ipc_bebidas_alcoholicas_tabaco_nacional,885.54,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2022-12-01,ipc_bebidas_alcoholicas_tabaco_nacional,948.7615,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2023-01-01,ipc_bebidas_alcoholicas_tabaco_nacional,1017.8777,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2023-02-01,ipc_bebidas_alcoholicas_tabaco_nacional,1071.1087,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2023-03-01,ipc_bebidas_alcoholicas_tabaco_nacional,1159.8526,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2023-04-01,ipc_bebidas_alcoholicas_tabaco_nacional,1203.7907,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2023-05-01,ipc_bebidas_alcoholicas_tabaco_nacional,1305.3763,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2023-06-01,ipc_bebidas_alcoholicas_tabaco_nacional,1364.1997,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2023-07-01,ipc_bebidas_alcoholicas_tabaco_nacional,1487.5243,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2023-08-01,ipc_bebidas_alcoholicas_tabaco_nacional,1613.6846,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2023-09-01,ipc_bebidas_alcoholicas_tabaco_nacional,1799.9953,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2023-10-01,ipc_bebidas_alcoholicas_tabaco_nacional,1977.1526,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2023-11-01,ipc_bebidas_alcoholicas_tabaco_nacional,2209.6412,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2023-12-01,ipc_bebidas_alcoholicas_tabaco_nacional,2656.6774,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2024-01-01,ipc_bebidas_alcoholicas_tabaco_nacional,3215.0859,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2024-02-01,ipc_bebidas_alcoholicas_tabaco_nacional,3783.276,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2024-03-01,ipc_bebidas_alcoholicas_tabaco_nacional,4248.8502,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2024-04-01,ipc_bebidas_alcoholicas_tabaco_nacional,4481.9882,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2024-05-01,ipc_bebidas_alcoholicas_tabaco_nacional,4781.4925,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2024-06-01,ipc_bebidas_alcoholicas_tabaco_nacional,4880.2257,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2024-07-01,ipc_bebidas_alcoholicas_tabaco_nacional,5178.7502,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2024-08-01,ipc_bebidas_alcoholicas_tabaco_nacional,5336.2611,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2024-09-01,ipc_bebidas_alcoholicas_tabaco_nacional,5453.5896,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2024-10-01,ipc_bebidas_alcoholicas_tabaco_nacional,5617.0301,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2024-11-01,ipc_bebidas_alcoholicas_tabaco_nacional,5841.4971,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2024-12-01,ipc_bebidas_alcoholicas_tabaco_nacional,5987.6081,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2025-01-01,ipc_bebidas_alcoholicas_tabaco_nacional,6132.7085,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2025-02-01,ipc_bebidas_alcoholicas_tabaco_nacional,6212.9468,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2025-03-01,ipc_bebidas_alcoholicas_tabaco_nacional,6262.1312,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2025-04-01,ipc_bebidas_alcoholicas_tabaco_nacional,6440.2537,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2025-05-01,ipc_bebidas_alcoholicas_tabaco_nacional,6477.8365,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2025-06-01,ipc_bebidas_alcoholicas_tabaco_nacional,6658.8334,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2025-07-01,ipc_bebidas_alcoholicas_tabaco_nacional,6701.1649,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2025-08-01,ipc_bebidas_alcoholicas_tabaco_nacional,6932.52,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2025-09-01,ipc_bebidas_alcoholicas_tabaco_nacional,7042.0634,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2025-10-01,ipc_bebidas_alcoholicas_tabaco_nacional,7209.6846,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2025-11-01,ipc_bebidas_alcoholicas_tabaco_nacional,7293.6616,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2025-12-01,ipc_bebidas_alcoholicas_tabaco_nacional,7499.3541,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2026-01-01,ipc_bebidas_alcoholicas_tabaco_nacional,7612.5319,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2026-02-01,ipc_bebidas_alcoholicas_tabaco_nacional,7659.9125,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2026-03-01,ipc_bebidas_alcoholicas_tabaco_nacional,7823.3561,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2026-04-01,ipc_bebidas_alcoholicas_tabaco_nacional,7969.9785,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2026-05-01,ipc_bebidas_alcoholicas_tabaco_nacional,8033.2555,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2026-06-01,ipc_bebidas_alcoholicas_tabaco_nacional,8201.663,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2026-07-01,ipc_bebidas_alcoholicas_tabaco_nacional,8325.6018,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2026-08-01,ipc_bebidas_alcoholicas_tabaco_nacional,8502.1207,Bebidas Alc. y Tabaco,1,Bienes transables manufacturados con insumos dolarizados
+2016-12-01,ipc_bienes_servicios_varios_nacional,100.0,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2017-01-01,ipc_bienes_servicios_varios_nacional,101.9345,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2017-02-01,ipc_bienes_servicios_varios_nacional,103.7951,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2017-03-01,ipc_bienes_servicios_varios_nacional,105.6633,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2017-04-01,ipc_bienes_servicios_varios_nacional,107.5442,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2017-05-01,ipc_bienes_servicios_varios_nacional,108.9336,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2017-06-01,ipc_bienes_servicios_varios_nacional,110.3729,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2017-07-01,ipc_bienes_servicios_varios_nacional,111.8348,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2017-08-01,ipc_bienes_servicios_varios_nacional,113.6021,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2017-09-01,ipc_bienes_servicios_varios_nacional,115.4941,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2017-10-01,ipc_bienes_servicios_varios_nacional,117.0803,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2017-11-01,ipc_bienes_servicios_varios_nacional,118.5168,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2017-12-01,ipc_bienes_servicios_varios_nacional,119.8176,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2018-01-01,ipc_bienes_servicios_varios_nacional,122.7189,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2018-02-01,ipc_bienes_servicios_varios_nacional,124.8704,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2018-03-01,ipc_bienes_servicios_varios_nacional,127.1891,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2018-04-01,ipc_bienes_servicios_varios_nacional,129.3332,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2018-05-01,ipc_bienes_servicios_varios_nacional,131.8763,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2018-06-01,ipc_bienes_servicios_varios_nacional,136.0669,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2018-07-01,ipc_bienes_servicios_varios_nacional,141.4245,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2018-08-01,ipc_bienes_servicios_varios_nacional,148.3437,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2018-09-01,ipc_bienes_servicios_varios_nacional,160.1018,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2018-10-01,ipc_bienes_servicios_varios_nacional,170.0438,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2018-11-01,ipc_bienes_servicios_varios_nacional,177.5239,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2018-12-01,ipc_bienes_servicios_varios_nacional,183.608,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2019-01-01,ipc_bienes_servicios_varios_nacional,190.2864,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2019-02-01,ipc_bienes_servicios_varios_nacional,196.1795,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2019-03-01,ipc_bienes_servicios_varios_nacional,202.2281,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2019-04-01,ipc_bienes_servicios_varios_nacional,208.235,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2019-05-01,ipc_bienes_servicios_varios_nacional,214.0404,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2019-06-01,ipc_bienes_servicios_varios_nacional,218.5697,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2019-07-01,ipc_bienes_servicios_varios_nacional,224.4509,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2019-08-01,ipc_bienes_servicios_varios_nacional,234.3934,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2019-09-01,ipc_bienes_servicios_varios_nacional,253.668,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2019-10-01,ipc_bienes_servicios_varios_nacional,263.4181,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2019-11-01,ipc_bienes_servicios_varios_nacional,276.2862,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2019-12-01,ipc_bienes_servicios_varios_nacional,286.2711,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2020-01-01,ipc_bienes_servicios_varios_nacional,295.0698,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2020-02-01,ipc_bienes_servicios_varios_nacional,302.2693,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2020-03-01,ipc_bienes_servicios_varios_nacional,308.4361,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2020-04-01,ipc_bienes_servicios_varios_nacional,308.9516,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2020-05-01,ipc_bienes_servicios_varios_nacional,314.8969,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2020-06-01,ipc_bienes_servicios_varios_nacional,315.9472,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2020-07-01,ipc_bienes_servicios_varios_nacional,323.2643,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2020-08-01,ipc_bienes_servicios_varios_nacional,334.0208,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2020-09-01,ipc_bienes_servicios_varios_nacional,340.0843,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2020-10-01,ipc_bienes_servicios_varios_nacional,347.2283,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2020-11-01,ipc_bienes_servicios_varios_nacional,356.3987,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2020-12-01,ipc_bienes_servicios_varios_nacional,362.5783,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2021-01-01,ipc_bienes_servicios_varios_nacional,369.9824,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2021-02-01,ipc_bienes_servicios_varios_nacional,381.9169,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2021-03-01,ipc_bienes_servicios_varios_nacional,390.3459,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2021-04-01,ipc_bienes_servicios_varios_nacional,404.5705,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2021-05-01,ipc_bienes_servicios_varios_nacional,416.3379,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2021-06-01,ipc_bienes_servicios_varios_nacional,424.5201,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2021-07-01,ipc_bienes_servicios_varios_nacional,438.0619,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2021-08-01,ipc_bienes_servicios_varios_nacional,452.5377,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2021-09-01,ipc_bienes_servicios_varios_nacional,462.336,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2021-10-01,ipc_bienes_servicios_varios_nacional,477.8239,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2021-11-01,ipc_bienes_servicios_varios_nacional,487.5849,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2021-12-01,ipc_bienes_servicios_varios_nacional,503.0842,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2022-01-01,ipc_bienes_servicios_varios_nacional,524.7001,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2022-02-01,ipc_bienes_servicios_varios_nacional,547.448,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2022-03-01,ipc_bienes_servicios_varios_nacional,577.6959,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2022-04-01,ipc_bienes_servicios_varios_nacional,608.0932,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2022-05-01,ipc_bienes_servicios_varios_nacional,635.8157,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2022-06-01,ipc_bienes_servicios_varios_nacional,667.7975,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2022-07-01,ipc_bienes_servicios_varios_nacional,721.9398,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2022-08-01,ipc_bienes_servicios_varios_nacional,784.4224,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2022-09-01,ipc_bienes_servicios_varios_nacional,837.7345,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2022-10-01,ipc_bienes_servicios_varios_nacional,889.2464,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2022-11-01,ipc_bienes_servicios_varios_nacional,941.1822,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2022-12-01,ipc_bienes_servicios_varios_nacional,995.2681,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2023-01-01,ipc_bienes_servicios_varios_nacional,1062.9991,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2023-02-01,ipc_bienes_servicios_varios_nacional,1131.9624,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2023-03-01,ipc_bienes_servicios_varios_nacional,1203.4429,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2023-04-01,ipc_bienes_servicios_varios_nacional,1282.7938,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2023-05-01,ipc_bienes_servicios_varios_nacional,1373.9512,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2023-06-01,ipc_bienes_servicios_varios_nacional,1464.0524,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2023-07-01,ipc_bienes_servicios_varios_nacional,1556.5397,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2023-08-01,ipc_bienes_servicios_varios_nacional,1702.3856,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2023-09-01,ipc_bienes_servicios_varios_nacional,1901.2072,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2023-10-01,ipc_bienes_servicios_varios_nacional,2046.9768,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2023-11-01,ipc_bienes_servicios_varios_nacional,2282.6739,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2023-12-01,ipc_bienes_servicios_varios_nacional,3029.3357,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2024-01-01,ipc_bienes_servicios_varios_nacional,4373.2672,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2024-02-01,ipc_bienes_servicios_varios_nacional,5098.6735,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2024-03-01,ipc_bienes_servicios_varios_nacional,5586.4345,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2024-04-01,ipc_bienes_servicios_varios_nacional,5903.8543,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2024-05-01,ipc_bienes_servicios_varios_nacional,6157.7063,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2024-06-01,ipc_bienes_servicios_varios_nacional,6327.35,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2024-07-01,ipc_bienes_servicios_varios_nacional,6545.9203,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2024-08-01,ipc_bienes_servicios_varios_nacional,6694.7187,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2024-09-01,ipc_bienes_servicios_varios_nacional,6918.4736,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2024-10-01,ipc_bienes_servicios_varios_nacional,7112.7304,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2024-11-01,ipc_bienes_servicios_varios_nacional,7275.1468,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2024-12-01,ipc_bienes_servicios_varios_nacional,7430.8945,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2025-01-01,ipc_bienes_servicios_varios_nacional,7614.4036,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2025-02-01,ipc_bienes_servicios_varios_nacional,7837.1446,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2025-03-01,ipc_bienes_servicios_varios_nacional,8084.5484,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2025-04-01,ipc_bienes_servicios_varios_nacional,8290.2259,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2025-05-01,ipc_bienes_servicios_varios_nacional,8504.0579,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2025-06-01,ipc_bienes_servicios_varios_nacional,8588.9464,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2025-07-01,ipc_bienes_servicios_varios_nacional,8772.9432,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2025-08-01,ipc_bienes_servicios_varios_nacional,8970.2821,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2025-09-01,ipc_bienes_servicios_varios_nacional,9162.4211,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2025-10-01,ipc_bienes_servicios_varios_nacional,9386.3089,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2025-11-01,ipc_bienes_servicios_varios_nacional,9621.3785,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2025-12-01,ipc_bienes_servicios_varios_nacional,9875.41,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2026-01-01,ipc_bienes_servicios_varios_nacional,10144.8418,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2026-02-01,ipc_bienes_servicios_varios_nacional,10476.9884,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2026-03-01,ipc_bienes_servicios_varios_nacional,10653.9253,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2026-04-01,ipc_bienes_servicios_varios_nacional,10914.151,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2026-05-01,ipc_bienes_servicios_varios_nacional,11171.6219,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2026-06-01,ipc_bienes_servicios_varios_nacional,11373.1428,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2026-07-01,ipc_bienes_servicios_varios_nacional,11628.3085,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2026-08-01,ipc_bienes_servicios_varios_nacional,11911.9027,Bienes y Serv. Varios,1,Artículos de tocador y limpieza personal transables
+2016-12-01,ipc_comunicaciones_nacional,100.0,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2017-01-01,ipc_comunicaciones_nacional,103.0516,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2017-02-01,ipc_comunicaciones_nacional,107.2514,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2017-03-01,ipc_comunicaciones_nacional,110.6933,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2017-04-01,ipc_comunicaciones_nacional,118.2686,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2017-05-01,ipc_comunicaciones_nacional,118.6553,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2017-06-01,ipc_comunicaciones_nacional,120.1049,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2017-07-01,ipc_comunicaciones_nacional,121.2281,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2017-08-01,ipc_comunicaciones_nacional,123.052,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2017-09-01,ipc_comunicaciones_nacional,124.3454,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2017-10-01,ipc_comunicaciones_nacional,130.9342,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2017-11-01,ipc_comunicaciones_nacional,131.8833,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2017-12-01,ipc_comunicaciones_nacional,134.1367,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2018-01-01,ipc_comunicaciones_nacional,136.6524,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2018-02-01,ipc_comunicaciones_nacional,149.113,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2018-03-01,ipc_comunicaciones_nacional,153.2069,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2018-04-01,ipc_comunicaciones_nacional,154.7928,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2018-05-01,ipc_comunicaciones_nacional,160.8721,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2018-06-01,ipc_comunicaciones_nacional,161.4822,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2018-07-01,ipc_comunicaciones_nacional,162.4498,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2018-08-01,ipc_comunicaciones_nacional,182.6004,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2018-09-01,ipc_comunicaciones_nacional,186.4637,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2018-10-01,ipc_comunicaciones_nacional,187.8155,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2018-11-01,ipc_comunicaciones_nacional,193.5208,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2018-12-01,ipc_comunicaciones_nacional,208.333,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2019-01-01,ipc_comunicaciones_nacional,223.7092,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2019-02-01,ipc_comunicaciones_nacional,226.1415,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2019-03-01,ipc_comunicaciones_nacional,236.0623,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2019-04-01,ipc_comunicaciones_nacional,244.3102,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2019-05-01,ipc_comunicaciones_nacional,249.1176,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2019-06-01,ipc_comunicaciones_nacional,266.8665,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2019-07-01,ipc_comunicaciones_nacional,267.4442,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2019-08-01,ipc_comunicaciones_nacional,270.5675,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2019-09-01,ipc_comunicaciones_nacional,288.7594,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2019-10-01,ipc_comunicaciones_nacional,290.1029,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2019-11-01,ipc_comunicaciones_nacional,311.5568,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2019-12-01,ipc_comunicaciones_nacional,341.3832,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2020-01-01,ipc_comunicaciones_nacional,341.8435,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2020-02-01,ipc_comunicaciones_nacional,349.775,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2020-03-01,ipc_comunicaciones_nacional,378.653,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2020-04-01,ipc_comunicaciones_nacional,363.1467,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2020-05-01,ipc_comunicaciones_nacional,364.3572,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2020-06-01,ipc_comunicaciones_nacional,365.8524,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2020-07-01,ipc_comunicaciones_nacional,368.496,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2020-08-01,ipc_comunicaciones_nacional,369.5853,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2020-09-01,ipc_comunicaciones_nacional,370.0946,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2020-10-01,ipc_comunicaciones_nacional,369.6031,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2020-11-01,ipc_comunicaciones_nacional,367.4745,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2020-12-01,ipc_comunicaciones_nacional,367.3696,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2021-01-01,ipc_comunicaciones_nacional,422.9513,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2021-02-01,ipc_comunicaciones_nacional,430.6911,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2021-03-01,ipc_comunicaciones_nacional,430.982,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2021-04-01,ipc_comunicaciones_nacional,433.2713,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2021-05-01,ipc_comunicaciones_nacional,437.5563,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2021-06-01,ipc_comunicaciones_nacional,468.3691,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2021-07-01,ipc_comunicaciones_nacional,470.0952,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2021-08-01,ipc_comunicaciones_nacional,467.3059,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2021-09-01,ipc_comunicaciones_nacional,480.2655,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2021-10-01,ipc_comunicaciones_nacional,485.73,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2021-11-01,ipc_comunicaciones_nacional,489.7423,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2021-12-01,ipc_comunicaciones_nacional,498.8013,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2022-01-01,ipc_comunicaciones_nacional,536.1267,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2022-02-01,ipc_comunicaciones_nacional,544.0338,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2022-03-01,ipc_comunicaciones_nacional,562.7616,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2022-04-01,ipc_comunicaciones_nacional,583.3455,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2022-05-01,ipc_comunicaciones_nacional,601.2442,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2022-06-01,ipc_comunicaciones_nacional,603.5522,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2022-07-01,ipc_comunicaciones_nacional,636.8292,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2022-08-01,ipc_comunicaciones_nacional,662.6492,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2022-09-01,ipc_comunicaciones_nacional,678.9797,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2022-10-01,ipc_comunicaciones_nacional,761.29,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2022-11-01,ipc_comunicaciones_nacional,809.6802,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2022-12-01,ipc_comunicaciones_nacional,837.1999,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2023-01-01,ipc_comunicaciones_nacional,903.9001,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2023-02-01,ipc_comunicaciones_nacional,974.8005,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2023-03-01,ipc_comunicaciones_nacional,993.4553,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2023-04-01,ipc_comunicaciones_nacional,1055.7168,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2023-05-01,ipc_comunicaciones_nacional,1126.7574,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2023-06-01,ipc_comunicaciones_nacional,1244.8,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2023-07-01,ipc_comunicaciones_nacional,1396.2642,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2023-08-01,ipc_comunicaciones_nacional,1458.9608,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2023-09-01,ipc_comunicaciones_nacional,1598.7345,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2023-10-01,ipc_comunicaciones_nacional,1800.8697,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2023-11-01,ipc_comunicaciones_nacional,2074.7351,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2023-12-01,ipc_comunicaciones_nacional,2398.1411,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2024-01-01,ipc_comunicaciones_nacional,3000.0919,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2024-02-01,ipc_comunicaciones_nacional,3741.4942,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2024-03-01,ipc_comunicaciones_nacional,4338.0607,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2024-04-01,ipc_comunicaciones_nacional,4952.6903,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2024-05-01,ipc_comunicaciones_nacional,5359.4587,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2024-06-01,ipc_comunicaciones_nacional,5644.1836,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2024-07-01,ipc_comunicaciones_nacional,5844.002,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2024-08-01,ipc_comunicaciones_nacional,6127.5967,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2024-09-01,ipc_comunicaciones_nacional,6310.1757,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2024-10-01,ipc_comunicaciones_nacional,6440.16,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2024-11-01,ipc_comunicaciones_nacional,6539.2377,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2024-12-01,ipc_comunicaciones_nacional,6869.1427,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2025-01-01,ipc_comunicaciones_nacional,7030.3817,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2025-02-01,ipc_comunicaciones_nacional,7191.0294,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2025-03-01,ipc_comunicaciones_nacional,7371.0947,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2025-04-01,ipc_comunicaciones_nacional,7577.0727,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2025-05-01,ipc_comunicaciones_nacional,7889.7331,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2025-06-01,ipc_comunicaciones_nacional,8030.954,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2025-07-01,ipc_comunicaciones_nacional,8214.616,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2025-08-01,ipc_comunicaciones_nacional,8369.2742,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2025-09-01,ipc_comunicaciones_nacional,8550.2948,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2025-10-01,ipc_comunicaciones_nacional,8739.731,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2025-11-01,ipc_comunicaciones_nacional,8974.1837,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2025-12-01,ipc_comunicaciones_nacional,9271.0637,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2026-01-01,ipc_comunicaciones_nacional,9607.476,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2026-02-01,ipc_comunicaciones_nacional,9784.5611,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2026-03-01,ipc_comunicaciones_nacional,10069.9375,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2026-04-01,ipc_comunicaciones_nacional,10478.7314,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2026-05-01,ipc_comunicaciones_nacional,10838.4277,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2026-06-01,ipc_comunicaciones_nacional,10933.5551,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2026-07-01,ipc_comunicaciones_nacional,11194.2601,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2026-08-01,ipc_comunicaciones_nacional,11449.4705,Comunicaciones,0,Servicios de telecomunicaciones y abonos mensuales locales
+2016-12-01,ipc_educacion_nacional,100.0,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2017-01-01,ipc_educacion_nacional,100.7952,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2017-02-01,ipc_educacion_nacional,103.9808,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2017-03-01,ipc_educacion_nacional,115.3409,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2017-04-01,ipc_educacion_nacional,118.6783,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2017-05-01,ipc_educacion_nacional,120.69,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2017-06-01,ipc_educacion_nacional,121.8757,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2017-07-01,ipc_educacion_nacional,122.8868,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2017-08-01,ipc_educacion_nacional,125.3185,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2017-09-01,ipc_educacion_nacional,129.9791,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2017-10-01,ipc_educacion_nacional,131.0253,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2017-11-01,ipc_educacion_nacional,131.4832,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2017-12-01,ipc_educacion_nacional,131.4716,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2018-01-01,ipc_educacion_nacional,132.3079,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2018-02-01,ipc_educacion_nacional,134.8324,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2018-03-01,ipc_educacion_nacional,153.4357,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2018-04-01,ipc_educacion_nacional,154.6926,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2018-05-01,ipc_educacion_nacional,156.0746,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2018-06-01,ipc_educacion_nacional,157.9789,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2018-07-01,ipc_educacion_nacional,160.7826,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2018-08-01,ipc_educacion_nacional,163.8623,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2018-09-01,ipc_educacion_nacional,166.5346,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2018-10-01,ipc_educacion_nacional,170.0009,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2018-11-01,ipc_educacion_nacional,171.9664,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2018-12-01,ipc_educacion_nacional,173.7237,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2019-01-01,ipc_educacion_nacional,174.7196,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2019-02-01,ipc_educacion_nacional,177.646,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2019-03-01,ipc_educacion_nacional,209.4616,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2019-04-01,ipc_educacion_nacional,212.6984,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2019-05-01,ipc_educacion_nacional,219.6863,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2019-06-01,ipc_educacion_nacional,223.5381,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2019-07-01,ipc_educacion_nacional,228.213,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2019-08-01,ipc_educacion_nacional,233.9485,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2019-09-01,ipc_educacion_nacional,236.3192,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2019-10-01,ipc_educacion_nacional,240.0651,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2019-11-01,ipc_educacion_nacional,250.6401,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2019-12-01,ipc_educacion_nacional,255.5638,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2020-01-01,ipc_educacion_nacional,256.9216,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2020-02-01,ipc_educacion_nacional,260.6158,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2020-03-01,ipc_educacion_nacional,306.0975,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2020-04-01,ipc_educacion_nacional,301.6002,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2020-05-01,ipc_educacion_nacional,300.3424,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2020-06-01,ipc_educacion_nacional,301.4521,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2020-07-01,ipc_educacion_nacional,301.7724,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2020-08-01,ipc_educacion_nacional,304.0824,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2020-09-01,ipc_educacion_nacional,304.9813,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2020-10-01,ipc_educacion_nacional,305.3871,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2020-11-01,ipc_educacion_nacional,306.746,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2020-12-01,ipc_educacion_nacional,306.8977,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2021-01-01,ipc_educacion_nacional,308.6755,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2021-02-01,ipc_educacion_nacional,309.01,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2021-03-01,ipc_educacion_nacional,397.0482,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2021-04-01,ipc_educacion_nacional,406.8828,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2021-05-01,ipc_educacion_nacional,416.1535,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2021-06-01,ipc_educacion_nacional,420.9305,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2021-07-01,ipc_educacion_nacional,431.6135,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2021-08-01,ipc_educacion_nacional,449.9,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2021-09-01,ipc_educacion_nacional,463.9288,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2021-10-01,ipc_educacion_nacional,470.3893,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2021-11-01,ipc_educacion_nacional,474.3662,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2021-12-01,ipc_educacion_nacional,479.1164,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2022-01-01,ipc_educacion_nacional,482.7713,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2022-02-01,ipc_educacion_nacional,495.5553,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2022-03-01,ipc_educacion_nacional,612.6821,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2022-04-01,ipc_educacion_nacional,635.5003,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2022-05-01,ipc_educacion_nacional,656.1411,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2022-06-01,ipc_educacion_nacional,669.445,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2022-07-01,ipc_educacion_nacional,710.2816,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2022-08-01,ipc_educacion_nacional,745.7268,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2022-09-01,ipc_educacion_nacional,772.9974,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2022-10-01,ipc_educacion_nacional,827.9004,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2022-11-01,ipc_educacion_nacional,859.0553,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2022-12-01,ipc_educacion_nacional,892.6222,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2023-01-01,ipc_educacion_nacional,902.0686,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2023-02-01,ipc_educacion_nacional,930.4868,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2023-03-01,ipc_educacion_nacional,1201.1258,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2023-04-01,ipc_educacion_nacional,1261.5273,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2023-05-01,ipc_educacion_nacional,1323.5067,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2023-06-01,ipc_educacion_nacional,1410.4778,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2023-07-01,ipc_educacion_nacional,1496.9625,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2023-08-01,ipc_educacion_nacional,1626.7843,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2023-09-01,ipc_educacion_nacional,1759.2371,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2023-10-01,ipc_educacion_nacional,1875.3143,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2023-11-01,ipc_educacion_nacional,2031.1533,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2023-12-01,ipc_educacion_nacional,2157.4419,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2024-01-01,ipc_educacion_nacional,2176.0052,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2024-02-01,ipc_educacion_nacional,2392.1354,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2024-03-01,ipc_educacion_nacional,3653.0356,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2024-04-01,ipc_educacion_nacional,3966.8821,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2024-05-01,ipc_educacion_nacional,4269.9374,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2024-06-01,ipc_educacion_nacional,4514.8581,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2024-07-01,ipc_educacion_nacional,4704.182,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2024-08-01,ipc_educacion_nacional,5013.1678,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2024-09-01,ipc_educacion_nacional,5229.2692,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2024-10-01,ipc_educacion_nacional,5409.7822,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2024-11-01,ipc_educacion_nacional,5686.2954,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2024-12-01,ipc_educacion_nacional,5812.5191,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2025-01-01,ipc_educacion_nacional,5844.2136,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2025-02-01,ipc_educacion_nacional,5980.8655,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2025-03-01,ipc_educacion_nacional,7275.3457,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2025-04-01,ipc_educacion_nacional,7455.8399,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2025-05-01,ipc_educacion_nacional,7595.3193,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2025-06-01,ipc_educacion_nacional,7875.8853,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2025-07-01,ipc_educacion_nacional,8027.0607,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2025-08-01,ipc_educacion_nacional,8230.8327,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2025-09-01,ipc_educacion_nacional,8483.1542,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2025-10-01,ipc_educacion_nacional,8626.8402,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2025-11-01,ipc_educacion_nacional,8819.1806,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2025-12-01,ipc_educacion_nacional,8851.3058,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2026-01-01,ipc_educacion_nacional,8906.6187,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2026-02-01,ipc_educacion_nacional,9010.4,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2026-03-01,ipc_educacion_nacional,10103.1575,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2026-04-01,ipc_educacion_nacional,10532.1344,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2026-05-01,ipc_educacion_nacional,10840.9295,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2026-06-01,ipc_educacion_nacional,11025.3986,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2026-07-01,ipc_educacion_nacional,11235.6659,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2026-08-01,ipc_educacion_nacional,11519.721,Educación,0,Servicios no transables puros (aranceles escolares/universitarios)
+2016-12-01,ipc_equipamiento_mantenimientos_hogar_nacional,100.0,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2017-01-01,ipc_equipamiento_mantenimientos_hogar_nacional,100.8773,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2017-02-01,ipc_equipamiento_mantenimientos_hogar_nacional,101.3278,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2017-03-01,ipc_equipamiento_mantenimientos_hogar_nacional,102.1787,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2017-04-01,ipc_equipamiento_mantenimientos_hogar_nacional,103.3147,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2017-05-01,ipc_equipamiento_mantenimientos_hogar_nacional,106.1577,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2017-06-01,ipc_equipamiento_mantenimientos_hogar_nacional,107.4904,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2017-07-01,ipc_equipamiento_mantenimientos_hogar_nacional,110.0984,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2017-08-01,ipc_equipamiento_mantenimientos_hogar_nacional,111.1513,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2017-09-01,ipc_equipamiento_mantenimientos_hogar_nacional,112.2879,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2017-10-01,ipc_equipamiento_mantenimientos_hogar_nacional,113.0973,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2017-11-01,ipc_equipamiento_mantenimientos_hogar_nacional,114.1215,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2017-12-01,ipc_equipamiento_mantenimientos_hogar_nacional,117.436,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2018-01-01,ipc_equipamiento_mantenimientos_hogar_nacional,118.6538,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2018-02-01,ipc_equipamiento_mantenimientos_hogar_nacional,120.7253,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2018-03-01,ipc_equipamiento_mantenimientos_hogar_nacional,126.1821,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2018-04-01,ipc_equipamiento_mantenimientos_hogar_nacional,127.7561,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2018-05-01,ipc_equipamiento_mantenimientos_hogar_nacional,130.576,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2018-06-01,ipc_equipamiento_mantenimientos_hogar_nacional,135.829,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2018-07-01,ipc_equipamiento_mantenimientos_hogar_nacional,141.5414,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2018-08-01,ipc_equipamiento_mantenimientos_hogar_nacional,145.9741,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2018-09-01,ipc_equipamiento_mantenimientos_hogar_nacional,160.1563,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2018-10-01,ipc_equipamiento_mantenimientos_hogar_nacional,167.0385,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2018-11-01,ipc_equipamiento_mantenimientos_hogar_nacional,172.9721,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2018-12-01,ipc_equipamiento_mantenimientos_hogar_nacional,176.1826,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2019-01-01,ipc_equipamiento_mantenimientos_hogar_nacional,180.8936,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2019-02-01,ipc_equipamiento_mantenimientos_hogar_nacional,185.932,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2019-03-01,ipc_equipamiento_mantenimientos_hogar_nacional,192.9944,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2019-04-01,ipc_equipamiento_mantenimientos_hogar_nacional,201.8547,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2019-05-01,ipc_equipamiento_mantenimientos_hogar_nacional,208.3447,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2019-06-01,ipc_equipamiento_mantenimientos_hogar_nacional,215.4878,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2019-07-01,ipc_equipamiento_mantenimientos_hogar_nacional,220.9243,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2019-08-01,ipc_equipamiento_mantenimientos_hogar_nacional,234.3379,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2019-09-01,ipc_equipamiento_mantenimientos_hogar_nacional,251.7058,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2019-10-01,ipc_equipamiento_mantenimientos_hogar_nacional,272.1918,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2019-11-01,ipc_equipamiento_mantenimientos_hogar_nacional,273.7052,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2019-12-01,ipc_equipamiento_mantenimientos_hogar_nacional,288.4718,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2020-01-01,ipc_equipamiento_mantenimientos_hogar_nacional,284.7446,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2020-02-01,ipc_equipamiento_mantenimientos_hogar_nacional,290.661,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2020-03-01,ipc_equipamiento_mantenimientos_hogar_nacional,299.0795,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2020-04-01,ipc_equipamiento_mantenimientos_hogar_nacional,302.7645,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2020-05-01,ipc_equipamiento_mantenimientos_hogar_nacional,311.3316,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2020-06-01,ipc_equipamiento_mantenimientos_hogar_nacional,323.992,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2020-07-01,ipc_equipamiento_mantenimientos_hogar_nacional,336.5455,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2020-08-01,ipc_equipamiento_mantenimientos_hogar_nacional,348.1836,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2020-09-01,ipc_equipamiento_mantenimientos_hogar_nacional,357.1864,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2020-10-01,ipc_equipamiento_mantenimientos_hogar_nacional,373.2176,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2020-11-01,ipc_equipamiento_mantenimientos_hogar_nacional,387.9375,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2020-12-01,ipc_equipamiento_mantenimientos_hogar_nacional,397.2227,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2021-01-01,ipc_equipamiento_mantenimientos_hogar_nacional,409.0026,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2021-02-01,ipc_equipamiento_mantenimientos_hogar_nacional,427.6367,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2021-03-01,ipc_equipamiento_mantenimientos_hogar_nacional,441.1744,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2021-04-01,ipc_equipamiento_mantenimientos_hogar_nacional,460.1121,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2021-05-01,ipc_equipamiento_mantenimientos_hogar_nacional,470.991,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2021-06-01,ipc_equipamiento_mantenimientos_hogar_nacional,486.2222,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2021-07-01,ipc_equipamiento_mantenimientos_hogar_nacional,499.4892,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2021-08-01,ipc_equipamiento_mantenimientos_hogar_nacional,515.857,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2021-09-01,ipc_equipamiento_mantenimientos_hogar_nacional,533.8161,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2021-10-01,ipc_equipamiento_mantenimientos_hogar_nacional,548.5192,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2021-11-01,ipc_equipamiento_mantenimientos_hogar_nacional,563.3426,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2021-12-01,ipc_equipamiento_mantenimientos_hogar_nacional,582.338,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2022-01-01,ipc_equipamiento_mantenimientos_hogar_nacional,601.6662,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2022-02-01,ipc_equipamiento_mantenimientos_hogar_nacional,628.3237,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2022-03-01,ipc_equipamiento_mantenimientos_hogar_nacional,655.8863,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2022-04-01,ipc_equipamiento_mantenimientos_hogar_nacional,691.9571,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2022-05-01,ipc_equipamiento_mantenimientos_hogar_nacional,728.9951,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2022-06-01,ipc_equipamiento_mantenimientos_hogar_nacional,772.6412,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2022-07-01,ipc_equipamiento_mantenimientos_hogar_nacional,852.4176,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2022-08-01,ipc_equipamiento_mantenimientos_hogar_nacional,924.2301,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2022-09-01,ipc_equipamiento_mantenimientos_hogar_nacional,980.1201,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2022-10-01,ipc_equipamiento_mantenimientos_hogar_nacional,1028.4132,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2022-11-01,ipc_equipamiento_mantenimientos_hogar_nacional,1084.1626,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2022-12-01,ipc_equipamiento_mantenimientos_hogar_nacional,1148.5321,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2023-01-01,ipc_equipamiento_mantenimientos_hogar_nacional,1210.6926,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2023-02-01,ipc_equipamiento_mantenimientos_hogar_nacional,1271.8967,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2023-03-01,ipc_equipamiento_mantenimientos_hogar_nacional,1345.7519,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2023-04-01,ipc_equipamiento_mantenimientos_hogar_nacional,1462.0471,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2023-05-01,ipc_equipamiento_mantenimientos_hogar_nacional,1590.1014,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2023-06-01,ipc_equipamiento_mantenimientos_hogar_nacional,1717.2201,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2023-07-01,ipc_equipamiento_mantenimientos_hogar_nacional,1822.9318,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2023-08-01,ipc_equipamiento_mantenimientos_hogar_nacional,2079.2711,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2023-09-01,ipc_equipamiento_mantenimientos_hogar_nacional,2342.3942,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2023-10-01,ipc_equipamiento_mantenimientos_hogar_nacional,2592.8927,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2023-11-01,ipc_equipamiento_mantenimientos_hogar_nacional,2915.5922,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2023-12-01,ipc_equipamiento_mantenimientos_hogar_nacional,3810.0606,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2024-01-01,ipc_equipamiento_mantenimientos_hogar_nacional,4660.7816,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2024-02-01,ipc_equipamiento_mantenimientos_hogar_nacional,5142.1336,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2024-03-01,ipc_equipamiento_mantenimientos_hogar_nacional,5400.7512,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2024-04-01,ipc_equipamiento_mantenimientos_hogar_nacional,5751.7902,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2024-05-01,ipc_equipamiento_mantenimientos_hogar_nacional,5937.4758,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2024-06-01,ipc_equipamiento_mantenimientos_hogar_nacional,6073.2079,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2024-07-01,ipc_equipamiento_mantenimientos_hogar_nacional,6282.946,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2024-08-01,ipc_equipamiento_mantenimientos_hogar_nacional,6550.7845,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2024-09-01,ipc_equipamiento_mantenimientos_hogar_nacional,6727.2351,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2024-10-01,ipc_equipamiento_mantenimientos_hogar_nacional,6903.0355,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2024-11-01,ipc_equipamiento_mantenimientos_hogar_nacional,7007.1565,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2024-12-01,ipc_equipamiento_mantenimientos_hogar_nacional,7073.5091,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2025-01-01,ipc_equipamiento_mantenimientos_hogar_nacional,7187.8539,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2025-02-01,ipc_equipamiento_mantenimientos_hogar_nacional,7260.6442,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2025-03-01,ipc_equipamiento_mantenimientos_hogar_nacional,7368.221,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2025-04-01,ipc_equipamiento_mantenimientos_hogar_nacional,7437.0978,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2025-05-01,ipc_equipamiento_mantenimientos_hogar_nacional,7540.4993,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2025-06-01,ipc_equipamiento_mantenimientos_hogar_nacional,7683.5823,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2025-07-01,ipc_equipamiento_mantenimientos_hogar_nacional,7801.8271,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2025-08-01,ipc_equipamiento_mantenimientos_hogar_nacional,7874.7486,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2025-09-01,ipc_equipamiento_mantenimientos_hogar_nacional,8048.6896,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2025-10-01,ipc_equipamiento_mantenimientos_hogar_nacional,8179.996,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2025-11-01,ipc_equipamiento_mantenimientos_hogar_nacional,8271.6454,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2025-12-01,ipc_equipamiento_mantenimientos_hogar_nacional,8436.8959,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2026-01-01,ipc_equipamiento_mantenimientos_hogar_nacional,8591.3743,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2026-02-01,ipc_equipamiento_mantenimientos_hogar_nacional,8811.537,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2026-03-01,ipc_equipamiento_mantenimientos_hogar_nacional,8925.2054,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2026-04-01,ipc_equipamiento_mantenimientos_hogar_nacional,9182.794,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2026-05-01,ipc_equipamiento_mantenimientos_hogar_nacional,9312.2108,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2026-06-01,ipc_equipamiento_mantenimientos_hogar_nacional,9455.0367,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2026-07-01,ipc_equipamiento_mantenimientos_hogar_nacional,9653.7167,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2026-08-01,ipc_equipamiento_mantenimientos_hogar_nacional,9793.6862,Equipamiento del Hogar,1,Electrodomésticos y bienes durables altamente dolarizados
+2016-12-01,ipc_prendas_vestir_calzado_nacional,100.0,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2017-01-01,ipc_prendas_vestir_calzado_nacional,99.0066,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2017-02-01,ipc_prendas_vestir_calzado_nacional,98.8523,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2017-03-01,ipc_prendas_vestir_calzado_nacional,102.255,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2017-04-01,ipc_prendas_vestir_calzado_nacional,106.8806,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2017-05-01,ipc_prendas_vestir_calzado_nacional,108.726,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2017-06-01,ipc_prendas_vestir_calzado_nacional,109.6911,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2017-07-01,ipc_prendas_vestir_calzado_nacional,108.3524,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2017-08-01,ipc_prendas_vestir_calzado_nacional,107.6769,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2017-09-01,ipc_prendas_vestir_calzado_nacional,111.7682,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2017-10-01,ipc_prendas_vestir_calzado_nacional,114.138,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2017-11-01,ipc_prendas_vestir_calzado_nacional,115.6644,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2017-12-01,ipc_prendas_vestir_calzado_nacional,116.6315,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2018-01-01,ipc_prendas_vestir_calzado_nacional,115.7454,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2018-02-01,ipc_prendas_vestir_calzado_nacional,115.036,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2018-03-01,ipc_prendas_vestir_calzado_nacional,120.0687,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2018-04-01,ipc_prendas_vestir_calzado_nacional,124.9254,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2018-05-01,ipc_prendas_vestir_calzado_nacional,127.3628,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2018-06-01,ipc_prendas_vestir_calzado_nacional,129.8016,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2018-07-01,ipc_prendas_vestir_calzado_nacional,129.6084,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2018-08-01,ipc_prendas_vestir_calzado_nacional,130.051,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2018-09-01,ipc_prendas_vestir_calzado_nacional,142.776,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2018-10-01,ipc_prendas_vestir_calzado_nacional,149.9773,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2018-11-01,ipc_prendas_vestir_calzado_nacional,153.444,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2018-12-01,ipc_prendas_vestir_calzado_nacional,155.1797,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2019-01-01,ipc_prendas_vestir_calzado_nacional,154.3105,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2019-02-01,ipc_prendas_vestir_calzado_nacional,155.7973,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2019-03-01,ipc_prendas_vestir_calzado_nacional,166.0308,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2019-04-01,ipc_prendas_vestir_calzado_nacional,176.3303,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2019-05-01,ipc_prendas_vestir_calzado_nacional,182.2453,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2019-06-01,ipc_prendas_vestir_calzado_nacional,185.7061,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2019-07-01,ipc_prendas_vestir_calzado_nacional,186.345,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2019-08-01,ipc_prendas_vestir_calzado_nacional,192.1506,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2019-09-01,ipc_prendas_vestir_calzado_nacional,210.4983,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2019-10-01,ipc_prendas_vestir_calzado_nacional,220.4635,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2019-11-01,ipc_prendas_vestir_calzado_nacional,230.249,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2019-12-01,ipc_prendas_vestir_calzado_nacional,235.763,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2020-01-01,ipc_prendas_vestir_calzado_nacional,238.2562,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2020-02-01,ipc_prendas_vestir_calzado_nacional,243.9437,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2020-03-01,ipc_prendas_vestir_calzado_nacional,254.1219,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2020-04-01,ipc_prendas_vestir_calzado_nacional,257.9206,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2020-05-01,ipc_prendas_vestir_calzado_nacional,277.3804,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2020-06-01,ipc_prendas_vestir_calzado_nacional,295.818,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2020-07-01,ipc_prendas_vestir_calzado_nacional,305.5099,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2020-08-01,ipc_prendas_vestir_calzado_nacional,312.2789,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2020-09-01,ipc_prendas_vestir_calzado_nacional,330.5055,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2020-10-01,ipc_prendas_vestir_calzado_nacional,351.1551,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2020-11-01,ipc_prendas_vestir_calzado_nacional,364.0892,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2020-12-01,ipc_prendas_vestir_calzado_nacional,377.2469,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2021-01-01,ipc_prendas_vestir_calzado_nacional,382.4282,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2021-02-01,ipc_prendas_vestir_calzado_nacional,393.1944,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2021-03-01,ipc_prendas_vestir_calzado_nacional,435.7025,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2021-04-01,ipc_prendas_vestir_calzado_nacional,461.9321,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2021-05-01,ipc_prendas_vestir_calzado_nacional,471.6343,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2021-06-01,ipc_prendas_vestir_calzado_nacional,487.9626,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2021-07-01,ipc_prendas_vestir_calzado_nacional,494.0248,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2021-08-01,ipc_prendas_vestir_calzado_nacional,510.8956,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2021-09-01,ipc_prendas_vestir_calzado_nacional,541.712,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2021-10-01,ipc_prendas_vestir_calzado_nacional,569.4577,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2021-11-01,ipc_prendas_vestir_calzado_nacional,592.8289,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2021-12-01,ipc_prendas_vestir_calzado_nacional,621.094,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2022-01-01,ipc_prendas_vestir_calzado_nacional,635.994,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2022-02-01,ipc_prendas_vestir_calzado_nacional,657.5762,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2022-03-01,ipc_prendas_vestir_calzado_nacional,728.959,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2022-04-01,ipc_prendas_vestir_calzado_nacional,801.0762,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2022-05-01,ipc_prendas_vestir_calzado_nacional,847.1542,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2022-06-01,ipc_prendas_vestir_calzado_nacional,895.8753,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2022-07-01,ipc_prendas_vestir_calzado_nacional,971.758,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2022-08-01,ipc_prendas_vestir_calzado_nacional,1067.5251,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2022-09-01,ipc_prendas_vestir_calzado_nacional,1180.9506,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2022-10-01,ipc_prendas_vestir_calzado_nacional,1261.5985,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2022-11-01,ipc_prendas_vestir_calzado_nacional,1318.2609,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2022-12-01,ipc_prendas_vestir_calzado_nacional,1371.3368,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2023-01-01,ipc_prendas_vestir_calzado_nacional,1402.845,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2023-02-01,ipc_prendas_vestir_calzado_nacional,1457.7661,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2023-03-01,ipc_prendas_vestir_calzado_nacional,1595.0861,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2023-04-01,ipc_prendas_vestir_calzado_nacional,1768.0967,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2023-05-01,ipc_prendas_vestir_calzado_nacional,1903.1899,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2023-06-01,ipc_prendas_vestir_calzado_nacional,1983.4012,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2023-07-01,ipc_prendas_vestir_calzado_nacional,2043.7327,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2023-08-01,ipc_prendas_vestir_calzado_nacional,2230.5776,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2023-09-01,ipc_prendas_vestir_calzado_nacional,2581.0642,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2023-10-01,ipc_prendas_vestir_calzado_nacional,2864.6053,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2023-11-01,ipc_prendas_vestir_calzado_nacional,3151.4751,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2023-12-01,ipc_prendas_vestir_calzado_nacional,3694.929,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2024-01-01,ipc_prendas_vestir_calzado_nacional,4135.7944,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2024-02-01,ipc_prendas_vestir_calzado_nacional,4434.676,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2024-03-01,ipc_prendas_vestir_calzado_nacional,4919.1559,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2024-04-01,ipc_prendas_vestir_calzado_nacional,5392.8345,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2024-05-01,ipc_prendas_vestir_calzado_nacional,5584.1343,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2024-06-01,ipc_prendas_vestir_calzado_nacional,5736.1025,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2024-07-01,ipc_prendas_vestir_calzado_nacional,5829.6937,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2024-08-01,ipc_prendas_vestir_calzado_nacional,5949.5541,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2024-09-01,ipc_prendas_vestir_calzado_nacional,6308.9971,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2024-10-01,ipc_prendas_vestir_calzado_nacional,6588.1894,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2024-11-01,ipc_prendas_vestir_calzado_nacional,6713.0284,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2024-12-01,ipc_prendas_vestir_calzado_nacional,6817.1412,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2025-01-01,ipc_prendas_vestir_calzado_nacional,6772.1731,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2025-02-01,ipc_prendas_vestir_calzado_nacional,6800.5997,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2025-03-01,ipc_prendas_vestir_calzado_nacional,7112.5925,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2025-04-01,ipc_prendas_vestir_calzado_nacional,7385.4063,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2025-05-01,ipc_prendas_vestir_calzado_nacional,7453.7558,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2025-06-01,ipc_prendas_vestir_calzado_nacional,7490.0195,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2025-07-01,ipc_prendas_vestir_calzado_nacional,7420.9382,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2025-08-01,ipc_prendas_vestir_calzado_nacional,7401.8179,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2025-09-01,ipc_prendas_vestir_calzado_nacional,7553.7487,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2025-10-01,ipc_prendas_vestir_calzado_nacional,7736.2575,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2025-11-01,ipc_prendas_vestir_calzado_nacional,7776.5032,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2025-12-01,ipc_prendas_vestir_calzado_nacional,7861.3245,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2026-01-01,ipc_prendas_vestir_calzado_nacional,7825.2642,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2026-02-01,ipc_prendas_vestir_calzado_nacional,7824.4543,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2026-03-01,ipc_prendas_vestir_calzado_nacional,8067.5324,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2026-04-01,ipc_prendas_vestir_calzado_nacional,8326.6612,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2026-05-01,ipc_prendas_vestir_calzado_nacional,8350.2424,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2026-06-01,ipc_prendas_vestir_calzado_nacional,8384.717,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2026-07-01,ipc_prendas_vestir_calzado_nacional,8272.2793,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2026-08-01,ipc_prendas_vestir_calzado_nacional,8218.7562,Prendas de Vestir,1,Insumos textiles transables y competencia con importaciones
+2016-12-01,ipc_recreacion_cultura_nacional,100.0,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2017-01-01,ipc_recreacion_cultura_nacional,103.1906,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2017-02-01,ipc_recreacion_cultura_nacional,103.7961,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2017-03-01,ipc_recreacion_cultura_nacional,105.5114,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2017-04-01,ipc_recreacion_cultura_nacional,108.2881,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2017-05-01,ipc_recreacion_cultura_nacional,109.0808,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2017-06-01,ipc_recreacion_cultura_nacional,111.6195,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2017-07-01,ipc_recreacion_cultura_nacional,115.609,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2017-08-01,ipc_recreacion_cultura_nacional,116.3997,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2017-09-01,ipc_recreacion_cultura_nacional,119.536,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2017-10-01,ipc_recreacion_cultura_nacional,121.032,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2017-11-01,ipc_recreacion_cultura_nacional,121.8725,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2017-12-01,ipc_recreacion_cultura_nacional,122.7547,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2018-01-01,ipc_recreacion_cultura_nacional,127.0012,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2018-02-01,ipc_recreacion_cultura_nacional,128.2519,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2018-03-01,ipc_recreacion_cultura_nacional,129.8108,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2018-04-01,ipc_recreacion_cultura_nacional,132.3056,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2018-05-01,ipc_recreacion_cultura_nacional,135.6359,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2018-06-01,ipc_recreacion_cultura_nacional,140.1805,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2018-07-01,ipc_recreacion_cultura_nacional,147.2814,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2018-08-01,ipc_recreacion_cultura_nacional,152.1489,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2018-09-01,ipc_recreacion_cultura_nacional,162.4851,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2018-10-01,ipc_recreacion_cultura_nacional,166.9487,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2018-11-01,ipc_recreacion_cultura_nacional,171.6321,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2018-12-01,ipc_recreacion_cultura_nacional,176.0803,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2019-01-01,ipc_recreacion_cultura_nacional,182.2543,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2019-02-01,ipc_recreacion_cultura_nacional,186.2753,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2019-03-01,ipc_recreacion_cultura_nacional,189.9687,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2019-04-01,ipc_recreacion_cultura_nacional,195.9999,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2019-05-01,ipc_recreacion_cultura_nacional,200.6997,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2019-06-01,ipc_recreacion_cultura_nacional,208.1341,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2019-07-01,ipc_recreacion_cultura_nacional,216.1836,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2019-08-01,ipc_recreacion_cultura_nacional,225.1959,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2019-09-01,ipc_recreacion_cultura_nacional,242.2378,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2019-10-01,ipc_recreacion_cultura_nacional,247.0628,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2019-11-01,ipc_recreacion_cultura_nacional,255.3408,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2019-12-01,ipc_recreacion_cultura_nacional,261.4482,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2020-01-01,ipc_recreacion_cultura_nacional,274.5141,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2020-02-01,ipc_recreacion_cultura_nacional,280.5764,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2020-03-01,ipc_recreacion_cultura_nacional,287.5823,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2020-04-01,ipc_recreacion_cultura_nacional,294.2192,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2020-05-01,ipc_recreacion_cultura_nacional,301.4356,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2020-06-01,ipc_recreacion_cultura_nacional,314.005,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2020-07-01,ipc_recreacion_cultura_nacional,324.3321,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2020-08-01,ipc_recreacion_cultura_nacional,335.0449,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2020-09-01,ipc_recreacion_cultura_nacional,341.3154,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2020-10-01,ipc_recreacion_cultura_nacional,350.1056,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2020-11-01,ipc_recreacion_cultura_nacional,367.9236,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2020-12-01,ipc_recreacion_cultura_nacional,387.0686,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2021-01-01,ipc_recreacion_cultura_nacional,405.7084,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2021-02-01,ipc_recreacion_cultura_nacional,415.0224,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2021-03-01,ipc_recreacion_cultura_nacional,437.1879,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2021-04-01,ipc_recreacion_cultura_nacional,443.676,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2021-05-01,ipc_recreacion_cultura_nacional,457.4624,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2021-06-01,ipc_recreacion_cultura_nacional,467.7135,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2021-07-01,ipc_recreacion_cultura_nacional,482.1844,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2021-08-01,ipc_recreacion_cultura_nacional,500.0179,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2021-09-01,ipc_recreacion_cultura_nacional,518.8505,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2021-10-01,ipc_recreacion_cultura_nacional,539.5742,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2021-11-01,ipc_recreacion_cultura_nacional,547.4789,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2021-12-01,ipc_recreacion_cultura_nacional,569.1202,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2022-01-01,ipc_recreacion_cultura_nacional,593.0751,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2022-02-01,ipc_recreacion_cultura_nacional,606.6697,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2022-03-01,ipc_recreacion_cultura_nacional,626.8734,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2022-04-01,ipc_recreacion_cultura_nacional,659.6448,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2022-05-01,ipc_recreacion_cultura_nacional,693.9163,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2022-06-01,ipc_recreacion_cultura_nacional,724.0064,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2022-07-01,ipc_recreacion_cultura_nacional,819.4993,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2022-08-01,ipc_recreacion_cultura_nacional,860.7132,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2022-09-01,ipc_recreacion_cultura_nacional,905.8061,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2022-10-01,ipc_recreacion_cultura_nacional,956.8276,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2022-11-01,ipc_recreacion_cultura_nacional,996.7277,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2022-12-01,ipc_recreacion_cultura_nacional,1042.694,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2023-01-01,ipc_recreacion_cultura_nacional,1136.1135,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2023-02-01,ipc_recreacion_cultura_nacional,1205.9377,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2023-03-01,ipc_recreacion_cultura_nacional,1258.7738,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2023-04-01,ipc_recreacion_cultura_nacional,1353.7339,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2023-05-01,ipc_recreacion_cultura_nacional,1466.9417,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2023-06-01,ipc_recreacion_cultura_nacional,1561.7425,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2023-07-01,ipc_recreacion_cultura_nacional,1736.5158,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2023-08-01,ipc_recreacion_cultura_nacional,1937.7153,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2023-09-01,ipc_recreacion_cultura_nacional,2230.9342,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2023-10-01,ipc_recreacion_cultura_nacional,2438.4348,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2023-11-01,ipc_recreacion_cultura_nacional,2760.0532,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2023-12-01,ipc_recreacion_cultura_nacional,3317.3409,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2024-01-01,ipc_recreacion_cultura_nacional,4113.85,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2024-02-01,ipc_recreacion_cultura_nacional,4466.7506,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2024-03-01,ipc_recreacion_cultura_nacional,4846.7452,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2024-04-01,ipc_recreacion_cultura_nacional,5192.8995,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2024-05-01,ipc_recreacion_cultura_nacional,5429.4701,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2024-06-01,ipc_recreacion_cultura_nacional,5734.3613,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2024-07-01,ipc_recreacion_cultura_nacional,6059.3057,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2024-08-01,ipc_recreacion_cultura_nacional,6282.238,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2024-09-01,ipc_recreacion_cultura_nacional,6416.1845,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2024-10-01,ipc_recreacion_cultura_nacional,6599.9443,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2024-11-01,ipc_recreacion_cultura_nacional,6798.7313,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2024-12-01,ipc_recreacion_cultura_nacional,6988.4998,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2025-01-01,ipc_recreacion_cultura_nacional,7160.6092,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2025-02-01,ipc_recreacion_cultura_nacional,7370.3538,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2025-03-01,ipc_recreacion_cultura_nacional,7382.2025,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2025-04-01,ipc_recreacion_cultura_nacional,7676.2045,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2025-05-01,ipc_recreacion_cultura_nacional,7807.3673,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2025-06-01,ipc_recreacion_cultura_nacional,8000.1427,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2025-07-01,ipc_recreacion_cultura_nacional,8384.8501,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2025-08-01,ipc_recreacion_cultura_nacional,8429.7057,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2025-09-01,ipc_recreacion_cultura_nacional,8542.3767,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2025-10-01,ipc_recreacion_cultura_nacional,8680.0313,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2025-11-01,ipc_recreacion_cultura_nacional,8892.1372,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2025-12-01,ipc_recreacion_cultura_nacional,9118.0448,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2026-01-01,ipc_recreacion_cultura_nacional,9211.9913,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2026-02-01,ipc_recreacion_cultura_nacional,9427.9443,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2026-03-01,ipc_recreacion_cultura_nacional,9763.4636,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2026-04-01,ipc_recreacion_cultura_nacional,9860.2728,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2026-05-01,ipc_recreacion_cultura_nacional,10132.3705,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2026-06-01,ipc_recreacion_cultura_nacional,10556.461,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2026-07-01,ipc_recreacion_cultura_nacional,11085.7507,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2026-08-01,ipc_recreacion_cultura_nacional,11084.103,Recreación y Cultura,0,"Servicios de esparcimiento, espectáculos y turismo local"
+2016-12-01,ipc_restaurantes_hoteles_nacional,100.0,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2017-01-01,ipc_restaurantes_hoteles_nacional,103.1002,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2017-02-01,ipc_restaurantes_hoteles_nacional,104.8886,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2017-03-01,ipc_restaurantes_hoteles_nacional,105.9567,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2017-04-01,ipc_restaurantes_hoteles_nacional,107.9795,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2017-05-01,ipc_restaurantes_hoteles_nacional,109.5541,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2017-06-01,ipc_restaurantes_hoteles_nacional,110.9475,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2017-07-01,ipc_restaurantes_hoteles_nacional,113.777,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2017-08-01,ipc_restaurantes_hoteles_nacional,114.5928,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2017-09-01,ipc_restaurantes_hoteles_nacional,116.2141,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2017-10-01,ipc_restaurantes_hoteles_nacional,117.834,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2017-11-01,ipc_restaurantes_hoteles_nacional,119.9896,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2017-12-01,ipc_restaurantes_hoteles_nacional,122.136,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2018-01-01,ipc_restaurantes_hoteles_nacional,125.7038,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2018-02-01,ipc_restaurantes_hoteles_nacional,128.3425,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2018-03-01,ipc_restaurantes_hoteles_nacional,130.5949,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2018-04-01,ipc_restaurantes_hoteles_nacional,133.5827,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2018-05-01,ipc_restaurantes_hoteles_nacional,136.7886,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2018-06-01,ipc_restaurantes_hoteles_nacional,140.423,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2018-07-01,ipc_restaurantes_hoteles_nacional,144.436,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2018-08-01,ipc_restaurantes_hoteles_nacional,147.9425,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2018-09-01,ipc_restaurantes_hoteles_nacional,156.4246,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2018-10-01,ipc_restaurantes_hoteles_nacional,161.2576,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2018-11-01,ipc_restaurantes_hoteles_nacional,165.4071,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2018-12-01,ipc_restaurantes_hoteles_nacional,169.794,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2019-01-01,ipc_restaurantes_hoteles_nacional,176.1325,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2019-02-01,ipc_restaurantes_hoteles_nacional,182.5376,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2019-03-01,ipc_restaurantes_hoteles_nacional,190.4396,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2019-04-01,ipc_restaurantes_hoteles_nacional,198.2112,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2019-05-01,ipc_restaurantes_hoteles_nacional,202.6055,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2019-06-01,ipc_restaurantes_hoteles_nacional,207.737,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2019-07-01,ipc_restaurantes_hoteles_nacional,213.878,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2019-08-01,ipc_restaurantes_hoteles_nacional,221.5727,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2019-09-01,ipc_restaurantes_hoteles_nacional,233.2019,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2019-10-01,ipc_restaurantes_hoteles_nacional,239.127,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2019-11-01,ipc_restaurantes_hoteles_nacional,247.0036,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2019-12-01,ipc_restaurantes_hoteles_nacional,255.1194,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2020-01-01,ipc_restaurantes_hoteles_nacional,265.7678,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2020-02-01,ipc_restaurantes_hoteles_nacional,273.9206,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2020-03-01,ipc_restaurantes_hoteles_nacional,279.826,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2020-04-01,ipc_restaurantes_hoteles_nacional,284.0325,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2020-05-01,ipc_restaurantes_hoteles_nacional,288.4158,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2020-06-01,ipc_restaurantes_hoteles_nacional,294.9019,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2020-07-01,ipc_restaurantes_hoteles_nacional,300.6189,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2020-08-01,ipc_restaurantes_hoteles_nacional,306.2356,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2020-09-01,ipc_restaurantes_hoteles_nacional,311.5692,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2020-10-01,ipc_restaurantes_hoteles_nacional,322.1058,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2020-11-01,ipc_restaurantes_hoteles_nacional,332.4733,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2020-12-01,ipc_restaurantes_hoteles_nacional,347.7424,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2021-01-01,ipc_restaurantes_hoteles_nacional,366.4717,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2021-02-01,ipc_restaurantes_hoteles_nacional,386.2568,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2021-03-01,ipc_restaurantes_hoteles_nacional,398.4108,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2021-04-01,ipc_restaurantes_hoteles_nacional,413.8512,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2021-05-01,ipc_restaurantes_hoteles_nacional,429.2946,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2021-06-01,ipc_restaurantes_hoteles_nacional,442.6958,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2021-07-01,ipc_restaurantes_hoteles_nacional,463.7774,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2021-08-01,ipc_restaurantes_hoteles_nacional,477.4438,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2021-09-01,ipc_restaurantes_hoteles_nacional,496.8871,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2021-10-01,ipc_restaurantes_hoteles_nacional,517.4057,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2021-11-01,ipc_restaurantes_hoteles_nacional,543.1712,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2021-12-01,ipc_restaurantes_hoteles_nacional,575.1289,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2022-01-01,ipc_restaurantes_hoteles_nacional,607.7867,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2022-02-01,ipc_restaurantes_hoteles_nacional,634.0233,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2022-03-01,ipc_restaurantes_hoteles_nacional,668.4613,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2022-04-01,ipc_restaurantes_hoteles_nacional,717.5668,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2022-05-01,ipc_restaurantes_hoteles_nacional,758.3527,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2022-06-01,ipc_restaurantes_hoteles_nacional,805.4594,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2022-07-01,ipc_restaurantes_hoteles_nacional,884.0683,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2022-08-01,ipc_restaurantes_hoteles_nacional,942.9087,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2022-09-01,ipc_restaurantes_hoteles_nacional,988.6307,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2022-10-01,ipc_restaurantes_hoteles_nacional,1061.9488,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2022-11-01,ipc_restaurantes_hoteles_nacional,1120.5659,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2022-12-01,ipc_restaurantes_hoteles_nacional,1200.8127,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2023-01-01,ipc_restaurantes_hoteles_nacional,1275.6081,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2023-02-01,ipc_restaurantes_hoteles_nacional,1371.9038,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2023-03-01,ipc_restaurantes_hoteles_nacional,1479.9582,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2023-04-01,ipc_restaurantes_hoteles_nacional,1626.3026,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2023-05-01,ipc_restaurantes_hoteles_nacional,1778.1049,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2023-06-01,ipc_restaurantes_hoteles_nacional,1890.0322,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2023-07-01,ipc_restaurantes_hoteles_nacional,2030.866,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2023-08-01,ipc_restaurantes_hoteles_nacional,2283.6173,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2023-09-01,ipc_restaurantes_hoteles_nacional,2586.0182,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2023-10-01,ipc_restaurantes_hoteles_nacional,2813.2083,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2023-11-01,ipc_restaurantes_hoteles_nacional,3151.623,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2023-12-01,ipc_restaurantes_hoteles_nacional,3831.9303,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2024-01-01,ipc_restaurantes_hoteles_nacional,4577.1896,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2024-02-01,ipc_restaurantes_hoteles_nacional,5088.0444,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2024-03-01,ipc_restaurantes_hoteles_nacional,5511.0135,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2024-04-01,ipc_restaurantes_hoteles_nacional,5912.6182,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2024-05-01,ipc_restaurantes_hoteles_nacional,6240.627,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2024-06-01,ipc_restaurantes_hoteles_nacional,6632.3116,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2024-07-01,ipc_restaurantes_hoteles_nacional,7061.2046,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2024-08-01,ipc_restaurantes_hoteles_nacional,7403.1627,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2024-09-01,ipc_restaurantes_hoteles_nacional,7673.8443,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2024-10-01,ipc_restaurantes_hoteles_nacional,8000.7985,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2024-11-01,ipc_restaurantes_hoteles_nacional,8290.1033,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2024-12-01,ipc_restaurantes_hoteles_nacional,8670.0443,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2025-01-01,ipc_restaurantes_hoteles_nacional,9132.8654,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2025-02-01,ipc_restaurantes_hoteles_nacional,9339.177,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2025-03-01,ipc_restaurantes_hoteles_nacional,9702.5819,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2025-04-01,ipc_restaurantes_hoteles_nacional,10102.2226,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2025-05-01,ipc_restaurantes_hoteles_nacional,10406.4718,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2025-06-01,ipc_restaurantes_hoteles_nacional,10624.8993,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2025-07-01,ipc_restaurantes_hoteles_nacional,10917.6195,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2025-08-01,ipc_restaurantes_hoteles_nacional,11291.3028,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2025-09-01,ipc_restaurantes_hoteles_nacional,11412.4415,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2025-10-01,ipc_restaurantes_hoteles_nacional,11665.8824,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2025-11-01,ipc_restaurantes_hoteles_nacional,11952.2159,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2025-12-01,ipc_restaurantes_hoteles_nacional,12333.0229,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2026-01-01,ipc_restaurantes_hoteles_nacional,12843.2705,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2026-02-01,ipc_restaurantes_hoteles_nacional,13228.6515,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2026-03-01,ipc_restaurantes_hoteles_nacional,13684.7468,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2026-04-01,ipc_restaurantes_hoteles_nacional,14041.1974,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2026-05-01,ipc_restaurantes_hoteles_nacional,14291.4848,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2026-06-01,ipc_restaurantes_hoteles_nacional,14524.0788,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2026-07-01,ipc_restaurantes_hoteles_nacional,14923.8212,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2026-08-01,ipc_restaurantes_hoteles_nacional,15196.1764,Restaurantes y Hoteles,0,Servicios gastronómicos y hotelería con alto costo laboral directo
+2016-12-01,ipc_salud_nacional,100.0,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2017-01-01,ipc_salud_nacional,102.3501,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2017-02-01,ipc_salud_nacional,105.0852,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2017-03-01,ipc_salud_nacional,107.1422,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2017-04-01,ipc_salud_nacional,109.052,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2017-05-01,ipc_salud_nacional,110.7256,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2017-06-01,ipc_salud_nacional,112.3558,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2017-07-01,ipc_salud_nacional,116.0848,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2017-08-01,ipc_salud_nacional,119.0025,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2017-09-01,ipc_salud_nacional,121.8977,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2017-10-01,ipc_salud_nacional,123.2121,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2017-11-01,ipc_salud_nacional,124.8225,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2017-12-01,ipc_salud_nacional,127.7938,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2018-01-01,ipc_salud_nacional,130.037,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2018-02-01,ipc_salud_nacional,133.0853,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2018-03-01,ipc_salud_nacional,134.821,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2018-04-01,ipc_salud_nacional,137.2231,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2018-05-01,ipc_salud_nacional,140.2549,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2018-06-01,ipc_salud_nacional,146.2916,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2018-07-01,ipc_salud_nacional,150.399,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2018-08-01,ipc_salud_nacional,156.5273,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2018-09-01,ipc_salud_nacional,163.6215,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2018-10-01,ipc_salud_nacional,172.5763,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2018-11-01,ipc_salud_nacional,182.333,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2018-12-01,ipc_salud_nacional,191.9052,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2019-01-01,ipc_salud_nacional,197.4877,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2019-02-01,ipc_salud_nacional,203.7521,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2019-03-01,ipc_salud_nacional,210.369,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2019-04-01,ipc_salud_nacional,217.7389,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2019-05-01,ipc_salud_nacional,228.7921,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2019-06-01,ipc_salud_nacional,236.9165,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2019-07-01,ipc_salud_nacional,246.6508,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2019-08-01,ipc_salud_nacional,259.4603,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2019-09-01,ipc_salud_nacional,281.0982,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2019-10-01,ipc_salud_nacional,294.2595,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2019-11-01,ipc_salud_nacional,312.847,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2019-12-01,ipc_salud_nacional,330.324,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2020-01-01,ipc_salud_nacional,323.7294,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2020-02-01,ipc_salud_nacional,325.1671,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2020-03-01,ipc_salud_nacional,333.8163,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2020-04-01,ipc_salud_nacional,337.7523,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2020-05-01,ipc_salud_nacional,341.3461,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2020-06-01,ipc_salud_nacional,348.9759,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2020-07-01,ipc_salud_nacional,356.5467,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2020-08-01,ipc_salud_nacional,365.1113,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2020-09-01,ipc_salud_nacional,377.8509,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2020-10-01,ipc_salud_nacional,389.5109,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2020-11-01,ipc_salud_nacional,403.8029,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2020-12-01,ipc_salud_nacional,424.9668,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2021-01-01,ipc_salud_nacional,439.3776,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2021-02-01,ipc_salud_nacional,454.7265,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2021-03-01,ipc_salud_nacional,472.856,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2021-04-01,ipc_salud_nacional,490.482,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2021-05-01,ipc_salud_nacional,513.7918,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2021-06-01,ipc_salud_nacional,530.2766,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2021-07-01,ipc_salud_nacional,550.5464,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2021-08-01,ipc_salud_nacional,573.6501,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2021-09-01,ipc_salud_nacional,598.3555,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2021-10-01,ipc_salud_nacional,626.6749,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2021-11-01,ipc_salud_nacional,641.9374,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2021-12-01,ipc_salud_nacional,645.1434,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2022-01-01,ipc_salud_nacional,671.6729,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2022-02-01,ipc_salud_nacional,696.1161,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2022-03-01,ipc_salud_nacional,730.5922,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2022-04-01,ipc_salud_nacional,777.2991,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2022-05-01,ipc_salud_nacional,825.5739,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2022-06-01,ipc_salud_nacional,886.798,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2022-07-01,ipc_salud_nacional,947.493,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2022-08-01,ipc_salud_nacional,1001.738,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2022-09-01,ipc_salud_nacional,1045.0789,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2022-10-01,ipc_salud_nacional,1119.4447,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2022-11-01,ipc_salud_nacional,1165.2705,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2022-12-01,ipc_salud_nacional,1231.4648,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2023-01-01,ipc_salud_nacional,1291.7546,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2023-02-01,ipc_salud_nacional,1360.5006,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2023-03-01,ipc_salud_nacional,1438.3163,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2023-04-01,ipc_salud_nacional,1532.9719,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2023-05-01,ipc_salud_nacional,1671.6594,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2023-06-01,ipc_salud_nacional,1815.4471,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2023-07-01,ipc_salud_nacional,1979.4087,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2023-08-01,ipc_salud_nacional,2281.5545,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2023-09-01,ipc_salud_nacional,2499.2627,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2023-10-01,ipc_salud_nacional,2626.9102,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2023-11-01,ipc_salud_nacional,3043.8555,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2023-12-01,ipc_salud_nacional,4035.9697,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2024-01-01,ipc_salud_nacional,4861.4923,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2024-02-01,ipc_salud_nacional,5521.4252,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2024-03-01,ipc_salud_nacional,6195.6447,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2024-04-01,ipc_salud_nacional,6761.4824,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2024-05-01,ipc_salud_nacional,6807.8755,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2024-06-01,ipc_salud_nacional,7130.9268,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2024-07-01,ipc_salud_nacional,7548.0608,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2024-08-01,ipc_salud_nacional,7860.4897,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2024-09-01,ipc_salud_nacional,8122.6169,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2024-10-01,ipc_salud_nacional,8412.0394,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2024-11-01,ipc_salud_nacional,8657.936,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2024-12-01,ipc_salud_nacional,8840.1889,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2025-01-01,ipc_salud_nacional,9050.371,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2025-02-01,ipc_salud_nacional,9236.2844,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2025-03-01,ipc_salud_nacional,9406.4734,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2025-04-01,ipc_salud_nacional,9641.606,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2025-05-01,ipc_salud_nacional,9905.8259,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2025-06-01,ipc_salud_nacional,10119.3057,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2025-07-01,ipc_salud_nacional,10234.5966,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2025-08-01,ipc_salud_nacional,10410.6938,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2025-09-01,ipc_salud_nacional,10648.1896,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2025-10-01,ipc_salud_nacional,10842.673,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2025-11-01,ipc_salud_nacional,11102.6118,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2025-12-01,ipc_salud_nacional,11335.1633,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2026-01-01,ipc_salud_nacional,11600.3264,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2026-02-01,ipc_salud_nacional,11886.5002,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2026-03-01,ipc_salud_nacional,12201.3116,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2026-04-01,ipc_salud_nacional,12508.3899,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2026-05-01,ipc_salud_nacional,12832.0291,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2026-06-01,ipc_salud_nacional,13200.749,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2026-07-01,ipc_salud_nacional,13536.8295,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2026-08-01,ipc_salud_nacional,13863.0483,Salud,0,Servicios médicos y prepagas con fuerte componente laboral local
+2016-12-01,ipc_transporte_nacional,100.0,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2017-01-01,ipc_transporte_nacional,102.0755,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2017-02-01,ipc_transporte_nacional,103.9957,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2017-03-01,ipc_transporte_nacional,105.2177,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2017-04-01,ipc_transporte_nacional,105.8674,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2017-05-01,ipc_transporte_nacional,106.8575,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2017-06-01,ipc_transporte_nacional,107.5925,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2017-07-01,ipc_transporte_nacional,109.9058,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2017-08-01,ipc_transporte_nacional,111.0994,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2017-09-01,ipc_transporte_nacional,111.9943,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2017-10-01,ipc_transporte_nacional,113.4318,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2017-11-01,ipc_transporte_nacional,116.8496,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2017-12-01,ipc_transporte_nacional,120.6253,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2018-01-01,ipc_transporte_nacional,123.2423,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2018-02-01,ipc_transporte_nacional,128.7666,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2018-03-01,ipc_transporte_nacional,131.0603,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2018-04-01,ipc_transporte_nacional,136.3269,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2018-05-01,ipc_transporte_nacional,138.9243,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2018-06-01,ipc_transporte_nacional,147.1719,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2018-07-01,ipc_transporte_nacional,154.8231,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2018-08-01,ipc_transporte_nacional,161.083,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2018-09-01,ipc_transporte_nacional,177.8431,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2018-10-01,ipc_transporte_nacional,191.3913,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2018-11-01,ipc_transporte_nacional,196.5066,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2018-12-01,ipc_transporte_nacional,201.2271,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2019-01-01,ipc_transporte_nacional,206.205,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2019-02-01,ipc_transporte_nacional,210.7001,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2019-03-01,ipc_transporte_nacional,219.4872,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2019-04-01,ipc_transporte_nacional,229.0584,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2019-05-01,ipc_transporte_nacional,237.057,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2019-06-01,ipc_transporte_nacional,240.7657,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2019-07-01,ipc_transporte_nacional,243.5064,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2019-08-01,ipc_transporte_nacional,253.1342,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2019-09-01,ipc_transporte_nacional,265.0598,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2019-10-01,ipc_transporte_nacional,274.3506,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2019-11-01,ipc_transporte_nacional,286.9334,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2019-12-01,ipc_transporte_nacional,301.1997,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2020-01-01,ipc_transporte_nacional,305.6389,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2020-02-01,ipc_transporte_nacional,310.5997,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2020-03-01,ipc_transporte_nacional,315.6444,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2020-04-01,ipc_transporte_nacional,319.8688,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2020-05-01,ipc_transporte_nacional,323.2338,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2020-06-01,ipc_transporte_nacional,329.1348,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2020-07-01,ipc_transporte_nacional,335.1763,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2020-08-01,ipc_transporte_nacional,344.7144,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2020-09-01,ipc_transporte_nacional,357.1236,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2020-10-01,ipc_transporte_nacional,371.9913,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2020-11-01,ipc_transporte_nacional,385.4469,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2020-12-01,ipc_transporte_nacional,404.314,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2021-01-01,ipc_transporte_nacional,422.9057,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2021-02-01,ipc_transporte_nacional,443.3079,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2021-03-01,ipc_transporte_nacional,461.8773,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2021-04-01,ipc_transporte_nacional,487.9806,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2021-05-01,ipc_transporte_nacional,517.0463,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2021-06-01,ipc_transporte_nacional,533.8777,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2021-07-01,ipc_transporte_nacional,546.1141,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2021-08-01,ipc_transporte_nacional,559.4713,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2021-09-01,ipc_transporte_nacional,576.4905,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2021-10-01,ipc_transporte_nacional,594.2962,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2021-11-01,ipc_transporte_nacional,607.3504,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2021-12-01,ipc_transporte_nacional,637.3158,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2022-01-01,ipc_transporte_nacional,654.8718,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2022-02-01,ipc_transporte_nacional,687.1919,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2022-03-01,ipc_transporte_nacional,724.8465,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2022-04-01,ipc_transporte_nacional,763.5071,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2022-05-01,ipc_transporte_nacional,810.22,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2022-06-01,ipc_transporte_nacional,848.636,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2022-07-01,ipc_transporte_nacional,895.3078,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2022-08-01,ipc_transporte_nacional,956.4746,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2022-09-01,ipc_transporte_nacional,1012.0676,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2022-10-01,ipc_transporte_nacional,1057.3307,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2022-11-01,ipc_transporte_nacional,1121.731,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2022-12-01,ipc_transporte_nacional,1186.6265,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2023-01-01,ipc_transporte_nacional,1257.1122,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2023-02-01,ipc_transporte_nacional,1318.1813,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2023-03-01,ipc_transporte_nacional,1388.1661,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2023-04-01,ipc_transporte_nacional,1477.7098,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2023-05-01,ipc_transporte_nacional,1597.93,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2023-06-01,ipc_transporte_nacional,1701.7574,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2023-07-01,ipc_transporte_nacional,1791.7559,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2023-08-01,ipc_transporte_nacional,1979.0901,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2023-09-01,ipc_transporte_nacional,2193.7362,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2023-10-01,ipc_transporte_nacional,2349.1266,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2023-11-01,ipc_transporte_nacional,2593.1752,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2023-12-01,ipc_transporte_nacional,3414.0727,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2024-01-01,ipc_transporte_nacional,4311.5901,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2024-02-01,ipc_transporte_nacional,5243.4233,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2024-03-01,ipc_transporte_nacional,5923.314,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2024-04-01,ipc_transporte_nacional,6293.903,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2024-05-01,ipc_transporte_nacional,6544.312,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2024-06-01,ipc_transporte_nacional,6801.4888,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2024-07-01,ipc_transporte_nacional,6978.9894,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2024-08-01,ipc_transporte_nacional,7334.9917,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2024-09-01,ipc_transporte_nacional,7585.411,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2024-10-01,ipc_transporte_nacional,7677.7334,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2024-11-01,ipc_transporte_nacional,7939.9441,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2024-12-01,ipc_transporte_nacional,8118.1059,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2025-01-01,ipc_transporte_nacional,8217.8419,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2025-02-01,ipc_transporte_nacional,8359.8681,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2025-03-01,ipc_transporte_nacional,8502.5399,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2025-04-01,ipc_transporte_nacional,8644.5585,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2025-05-01,ipc_transporte_nacional,8676.0013,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2025-06-01,ipc_transporte_nacional,8816.3323,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2025-07-01,ipc_transporte_nacional,9061.1273,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2025-08-01,ipc_transporte_nacional,9384.5631,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2025-09-01,ipc_transporte_nacional,9663.0675,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2025-10-01,ipc_transporte_nacional,9997.0294,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2025-11-01,ipc_transporte_nacional,10299.7148,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2025-12-01,ipc_transporte_nacional,10712.0821,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2026-01-01,ipc_transporte_nacional,10909.2325,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2026-02-01,ipc_transporte_nacional,11124.8788,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2026-03-01,ipc_transporte_nacional,11583.956,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2026-04-01,ipc_transporte_nacional,12091.593,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2026-05-01,ipc_transporte_nacional,12330.5017,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2026-06-01,ipc_transporte_nacional,12531.7975,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2026-07-01,ipc_transporte_nacional,12767.6573,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2026-08-01,ipc_transporte_nacional,12965.1212,Transporte,0,Predominio de transporte público local con tarifas fijadas
+2016-12-01,ipc_vivienda_agua_electricidad_combustibles_nacional,100.0,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2017-01-01,ipc_vivienda_agua_electricidad_combustibles_nacional,101.4784,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2017-02-01,ipc_vivienda_agua_electricidad_combustibles_nacional,107.0014,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2017-03-01,ipc_vivienda_agua_electricidad_combustibles_nacional,110.8463,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2017-04-01,ipc_vivienda_agua_electricidad_combustibles_nacional,117.4108,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2017-05-01,ipc_vivienda_agua_electricidad_combustibles_nacional,119.5207,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2017-06-01,ipc_vivienda_agua_electricidad_combustibles_nacional,121.6359,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2017-07-01,ipc_vivienda_agua_electricidad_combustibles_nacional,124.0879,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2017-08-01,ipc_vivienda_agua_electricidad_combustibles_nacional,126.7648,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2017-09-01,ipc_vivienda_agua_electricidad_combustibles_nacional,129.2656,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2017-10-01,ipc_vivienda_agua_electricidad_combustibles_nacional,130.4139,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2017-11-01,ipc_vivienda_agua_electricidad_combustibles_nacional,132.0294,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2017-12-01,ipc_vivienda_agua_electricidad_combustibles_nacional,155.5929,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2018-01-01,ipc_vivienda_agua_electricidad_combustibles_nacional,157.216,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2018-02-01,ipc_vivienda_agua_electricidad_combustibles_nacional,163.1754,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2018-03-01,ipc_vivienda_agua_electricidad_combustibles_nacional,164.1018,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2018-04-01,ipc_vivienda_agua_electricidad_combustibles_nacional,177.2462,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2018-05-01,ipc_vivienda_agua_electricidad_combustibles_nacional,175.9498,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2018-06-01,ipc_vivienda_agua_electricidad_combustibles_nacional,180.6206,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2018-07-01,ipc_vivienda_agua_electricidad_combustibles_nacional,182.4306,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2018-08-01,ipc_vivienda_agua_electricidad_combustibles_nacional,193.6678,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2018-09-01,ipc_vivienda_agua_electricidad_combustibles_nacional,198.1079,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2018-10-01,ipc_vivienda_agua_electricidad_combustibles_nacional,215.507,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2018-11-01,ipc_vivienda_agua_electricidad_combustibles_nacional,220.0981,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2018-12-01,ipc_vivienda_agua_electricidad_combustibles_nacional,226.6993,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2019-01-01,ipc_vivienda_agua_electricidad_combustibles_nacional,233.7201,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2019-02-01,ipc_vivienda_agua_electricidad_combustibles_nacional,248.6768,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2019-03-01,ipc_vivienda_agua_electricidad_combustibles_nacional,255.6783,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2019-04-01,ipc_vivienda_agua_electricidad_combustibles_nacional,263.2012,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2019-05-01,ipc_vivienda_agua_electricidad_combustibles_nacional,273.6695,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2019-06-01,ipc_vivienda_agua_electricidad_combustibles_nacional,281.0736,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2019-07-01,ipc_vivienda_agua_electricidad_combustibles_nacional,287.2242,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2019-08-01,ipc_vivienda_agua_electricidad_combustibles_nacional,293.329,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2019-09-01,ipc_vivienda_agua_electricidad_combustibles_nacional,299.168,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2019-10-01,ipc_vivienda_agua_electricidad_combustibles_nacional,304.8007,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2019-11-01,ipc_vivienda_agua_electricidad_combustibles_nacional,309.4466,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2019-12-01,ipc_vivienda_agua_electricidad_combustibles_nacional,316.0254,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2020-01-01,ipc_vivienda_agua_electricidad_combustibles_nacional,318.0346,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2020-02-01,ipc_vivienda_agua_electricidad_combustibles_nacional,319.9809,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2020-03-01,ipc_vivienda_agua_electricidad_combustibles_nacional,324.3739,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2020-04-01,ipc_vivienda_agua_electricidad_combustibles_nacional,324.3903,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2020-05-01,ipc_vivienda_agua_electricidad_combustibles_nacional,324.7404,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2020-06-01,ipc_vivienda_agua_electricidad_combustibles_nacional,327.7297,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2020-07-01,ipc_vivienda_agua_electricidad_combustibles_nacional,331.0918,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2020-08-01,ipc_vivienda_agua_electricidad_combustibles_nacional,338.8038,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2020-09-01,ipc_vivienda_agua_electricidad_combustibles_nacional,343.9618,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2020-10-01,ipc_vivienda_agua_electricidad_combustibles_nacional,351.9646,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2020-11-01,ipc_vivienda_agua_electricidad_combustibles_nacional,360.8388,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2020-12-01,ipc_vivienda_agua_electricidad_combustibles_nacional,371.5185,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2021-01-01,ipc_vivienda_agua_electricidad_combustibles_nacional,375.7501,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2021-02-01,ipc_vivienda_agua_electricidad_combustibles_nacional,383.4268,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2021-03-01,ipc_vivienda_agua_electricidad_combustibles_nacional,388.4775,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2021-04-01,ipc_vivienda_agua_electricidad_combustibles_nacional,401.9368,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2021-05-01,ipc_vivienda_agua_electricidad_combustibles_nacional,410.1034,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2021-06-01,ipc_vivienda_agua_electricidad_combustibles_nacional,420.2876,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2021-07-01,ipc_vivienda_agua_electricidad_combustibles_nacional,432.405,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2021-08-01,ipc_vivienda_agua_electricidad_combustibles_nacional,437.3723,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2021-09-01,ipc_vivienda_agua_electricidad_combustibles_nacional,445.7672,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2021-10-01,ipc_vivienda_agua_electricidad_combustibles_nacional,456.979,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2021-11-01,ipc_vivienda_agua_electricidad_combustibles_nacional,466.9551,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2021-12-01,ipc_vivienda_agua_electricidad_combustibles_nacional,476.8025,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2022-01-01,ipc_vivienda_agua_electricidad_combustibles_nacional,485.193,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2022-02-01,ipc_vivienda_agua_electricidad_combustibles_nacional,498.9476,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2022-03-01,ipc_vivienda_agua_electricidad_combustibles_nacional,537.1626,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2022-04-01,ipc_vivienda_agua_electricidad_combustibles_nacional,561.7478,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2022-05-01,ipc_vivienda_agua_electricidad_combustibles_nacional,581.7106,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2022-06-01,ipc_vivienda_agua_electricidad_combustibles_nacional,621.3286,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2022-07-01,ipc_vivienda_agua_electricidad_combustibles_nacional,649.6896,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2022-08-01,ipc_vivienda_agua_electricidad_combustibles_nacional,685.6993,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2022-09-01,ipc_vivienda_agua_electricidad_combustibles_nacional,706.9826,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2022-10-01,ipc_vivienda_agua_electricidad_combustibles_nacional,759.7711,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2022-11-01,ipc_vivienda_agua_electricidad_combustibles_nacional,825.5091,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2022-12-01,ipc_vivienda_agua_electricidad_combustibles_nacional,860.1091,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2023-01-01,ipc_vivienda_agua_electricidad_combustibles_nacional,929.1621,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2023-02-01,ipc_vivienda_agua_electricidad_combustibles_nacional,973.7901,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2023-03-01,ipc_vivienda_agua_electricidad_combustibles_nacional,1037.2344,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2023-04-01,ipc_vivienda_agua_electricidad_combustibles_nacional,1095.5146,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2023-05-01,ipc_vivienda_agua_electricidad_combustibles_nacional,1225.368,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2023-06-01,ipc_vivienda_agua_electricidad_combustibles_nacional,1324.556,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2023-07-01,ipc_vivienda_agua_electricidad_combustibles_nacional,1377.3341,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2023-08-01,ipc_vivienda_agua_electricidad_combustibles_nacional,1503.1732,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2023-09-01,ipc_vivienda_agua_electricidad_combustibles_nacional,1630.2974,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2023-10-01,ipc_vivienda_agua_electricidad_combustibles_nacional,1757.5929,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2023-11-01,ipc_vivienda_agua_electricidad_combustibles_nacional,1881.818,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2023-12-01,ipc_vivienda_agua_electricidad_combustibles_nacional,2141.8205,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2024-01-01,ipc_vivienda_agua_electricidad_combustibles_nacional,2441.8481,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2024-02-01,ipc_vivienda_agua_electricidad_combustibles_nacional,2935.5879,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2024-03-01,ipc_vivienda_agua_electricidad_combustibles_nacional,3324.6647,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2024-04-01,ipc_vivienda_agua_electricidad_combustibles_nacional,4509.3648,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2024-05-01,ipc_vivienda_agua_electricidad_combustibles_nacional,4623.3551,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2024-06-01,ipc_vivienda_agua_electricidad_combustibles_nacional,5283.2155,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2024-07-01,ipc_vivienda_agua_electricidad_combustibles_nacional,5600.4988,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2024-08-01,ipc_vivienda_agua_electricidad_combustibles_nacional,5995.2852,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2024-09-01,ipc_vivienda_agua_electricidad_combustibles_nacional,6433.362,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2024-10-01,ipc_vivienda_agua_electricidad_combustibles_nacional,6780.4099,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2024-11-01,ipc_vivienda_agua_electricidad_combustibles_nacional,7083.0305,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2024-12-01,ipc_vivienda_agua_electricidad_combustibles_nacional,7457.2259,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2025-01-01,ipc_vivienda_agua_electricidad_combustibles_nacional,7757.8158,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2025-02-01,ipc_vivienda_agua_electricidad_combustibles_nacional,8048.663,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2025-03-01,ipc_vivienda_agua_electricidad_combustibles_nacional,8279.5282,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2025-04-01,ipc_vivienda_agua_electricidad_combustibles_nacional,8435.1033,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2025-05-01,ipc_vivienda_agua_electricidad_combustibles_nacional,8641.5515,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2025-06-01,ipc_vivienda_agua_electricidad_combustibles_nacional,8939.0041,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2025-07-01,ipc_vivienda_agua_electricidad_combustibles_nacional,9071.797,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2025-08-01,ipc_vivienda_agua_electricidad_combustibles_nacional,9314.2826,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2025-09-01,ipc_vivienda_agua_electricidad_combustibles_nacional,9605.6566,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2025-10-01,ipc_vivienda_agua_electricidad_combustibles_nacional,9874.9092,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2025-11-01,ipc_vivienda_agua_electricidad_combustibles_nacional,10213.7353,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2025-12-01,ipc_vivienda_agua_electricidad_combustibles_nacional,10561.7634,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2026-01-01,ipc_vivienda_agua_electricidad_combustibles_nacional,10879.7233,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2026-02-01,ipc_vivienda_agua_electricidad_combustibles_nacional,11614.1853,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2026-03-01,ipc_vivienda_agua_electricidad_combustibles_nacional,12045.2252,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2026-04-01,ipc_vivienda_agua_electricidad_combustibles_nacional,12470.6962,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2026-05-01,ipc_vivienda_agua_electricidad_combustibles_nacional,12790.0776,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2026-06-01,ipc_vivienda_agua_electricidad_combustibles_nacional,13213.1497,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2026-07-01,ipc_vivienda_agua_electricidad_combustibles_nacional,13505.3648,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables
+2026-08-01,ipc_vivienda_agua_electricidad_combustibles_nacional,13885.4923,Vivienda y Servicios Públicos,0,Tarifas reguladas y servicios locales no transables

@@ -1,0 +1,42 @@
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:             log_precio   R-squared:                        0.1015
+Estimator:                   PanelOLS   R-squared (Between):             -0.0009
+No. Observations:                 156   R-squared (Within):               0.0033
+Date:                Sat, Oct 10 2026   R-squared (Overall):             -0.0009
+Time:                        00:52:23   Log-likelihood                    187.43
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      1.1293
+Entities:                          12   P-value                           0.3431
+Avg Obs:                       13.000   Distribution:                  F(12,120)
+Min Obs:                       13.000                                           
+Max Obs:                       13.000   F-statistic (robust):         -8.575e+12
+                                        P-value                           1.0000
+Time periods:                      13   Distribution:                  F(12,120)
+Avg Obs:                       12.000                                           
+Min Obs:                       12.000                                           
+Max Obs:                       12.000                                           
+                                                                                
+                              Parameter Estimates                               
+================================================================================
+              Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+--------------------------------------------------------------------------------
+treat_lead_6    -0.0311     0.0397    -0.7823     0.4356     -0.1097      0.0476
+treat_lead_5    -0.0480     0.0333    -1.4411     0.1521     -0.1139      0.0179
+treat_lead_4    -0.0386     0.0247    -1.5592     0.1216     -0.0876      0.0104
+treat_lead_3    -0.0163     0.0180    -0.9022     0.3687     -0.0520      0.0194
+treat_lead_2    -0.0052     0.0146    -0.3567     0.7220     -0.0342      0.0237
+treat_lag_0      0.0492     0.0405     1.2146     0.2269     -0.0310      0.1293
+treat_lag_1      0.0927     0.0864     1.0734     0.2853     -0.0783      0.2638
+treat_lag_2      0.0677     0.1013     0.6684     0.5052     -0.1328      0.2682
+treat_lag_3      0.0034     0.0848     0.0405     0.9678     -0.1644      0.1712
+treat_lag_4     -0.0475     0.0826    -0.5748     0.5665     -0.2110      0.1160
+treat_lag_5     -0.0493     0.0829    -0.5948     0.5531     -0.2134      0.1148
+treat_lag_6     -0.0870     0.0852    -1.0211     0.3093     -0.2557      0.0817
+================================================================================
+
+F-test for Poolability: 150.23
+P-value: 0.0000
+Distribution: F(23,120)
+
+Included effects: Entity, Time
