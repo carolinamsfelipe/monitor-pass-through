@@ -1,27 +1,53 @@
 """
-Módulo de descarga, procesamiento y almacenamiento de series oficiales del IPC INDEC
+Descarga, validación, caché y estructuración del IPC INDEC (apertura por capítulos)
 a partir del repositorio abierto de la Subsecretaría de Programación Macroeconómica (SSPM).
+
+Seguridad: la verificación TLS siempre está activa. Si hace falta un bundle de CA propio
+(proxy corporativo) usar la variable de entorno REQUESTS_CA_BUNDLE o SSL_CERT_FILE; nunca
+se desactiva la verificación.
 """
 
-import io
+from __future__ import annotations
+
+import json
+import logging
 import os
-import requests
-import urllib3
+import time
+from typing import Optional
+
 import pandas as pd
-import numpy as np
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
-# Suprimir advertencias de SSL para descarga segura en entornos locales
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+from datos.validacion import validar_esquema_raw, validar_panel
 
-URL_IPC_CAPITULOS = (
-    "https://infra.datos.gob.ar/catalog/sspm/dataset/145/distribution/145.5/download/"
+logger = logging.getLogger(__name__)
+
+# Dataset y versión de la distribución configurables por entorno (la versión "145.5" puede
+# cambiar cuando el INDEC/SSPM republica el dataset).
+DATASET_ID = os.environ.get("MPT_IPC_DATASET_ID", "145")
+DISTRIBUCION_ID = os.environ.get("MPT_IPC_DISTRIBUCION_ID", "145.5")
+NOMBRE_ARCHIVO_IPC = (
     "indice-precios-al-consumidor-apertura-por-capitulos-base-diciembre-2016-mensual.csv"
 )
-
-URL_IPC_BIENES_SERVICIOS = (
-    "https://infra.datos.gob.ar/catalog/sspm/dataset/145/distribution/145.7/download/"
-    "indice-precios-al-consumidor-bienes-servicios-base-diciembre-2016-mensual.csv"
+URL_IPC_CAPITULOS = os.environ.get(
+    "MPT_IPC_URL",
+    f"https://infra.datos.gob.ar/catalog/sspm/dataset/{DATASET_ID}/distribution/"
+    f"{DISTRIBUCION_ID}/download/{NOMBRE_ARCHIVO_IPC}",
 )
+
+TTL_CACHE_HORAS_POR_DEFECTO = 24.0
+TIMEOUT_SEGUNDOS = 30
+REINTENTOS = 4
+
+NOMBRE_CACHE_CSV = "ipc_capitulos_raw.csv"
+NOMBRE_CACHE_META = "ipc_capitulos_raw.meta.json"
+
+
+class ErrorDescargaINDEC(RuntimeError):
+    """No se pudo obtener el IPC ni de la red ni de una caché utilizable."""
+
 
 # Diccionario de clasificación teórica de divisiones nacionales (Transable vs No Transable)
 # Basado en la literatura de microfundamentos de pass-through cambiario
@@ -89,58 +115,141 @@ CLASIFICACION_DIVISIONES = {
 }
 
 
-def descargar_series_indec(cache_dir: str = None) -> pd.DataFrame:
+def _crear_sesion() -> requests.Session:
+    """Sesión con reintentos y backoff exponencial; TLS verificado (por defecto)."""
+    retry = Retry(
+        total=REINTENTOS, connect=REINTENTOS, read=REINTENTOS, backoff_factor=1.0,
+        status_forcelist=(429, 500, 502, 503, 504), allowed_methods=("GET",),
+        raise_on_status=False,
+    )
+    sesion = requests.Session()
+    adaptador = HTTPAdapter(max_retries=retry)
+    sesion.mount("https://", adaptador)
+    sesion.mount("http://", adaptador)
+    sesion.headers.update({"User-Agent": "monitor-pass-through/1.0 (investigacion academica)"})
+    return sesion
+
+
+def _leer_meta(ruta_meta: str) -> Optional[dict]:
+    try:
+        with open(ruta_meta, encoding="utf-8") as f:
+            return json.load(f)
+    except (OSError, ValueError):
+        return None
+
+
+def _descargar_texto(url: str) -> str:
+    try:
+        with _crear_sesion() as sesion:
+            resp = sesion.get(url, timeout=TIMEOUT_SEGUNDOS)  # verify=True por defecto
+            resp.raise_for_status()
+            return resp.content.decode("utf-8")
+    except requests.exceptions.SSLError as e:
+        raise ErrorDescargaINDEC(
+            f"Falló la verificación TLS al conectar con {url}: {e}. No se desactiva la "
+            "verificación; si estás detrás de un proxy, configurá REQUESTS_CA_BUNDLE."
+        ) from e
+    except requests.exceptions.RequestException as e:
+        raise ErrorDescargaINDEC(f"No se pudo descargar el IPC desde {url}: {e}") from e
+
+
+def descargar_series_indec(cache_dir: Optional[str] = None,
+                           ttl_horas: float = TTL_CACHE_HORAS_POR_DEFECTO,
+                           url: Optional[str] = None,
+                           forzar: bool = False) -> pd.DataFrame:
     """
-    Descarga el dataset oficial del IPC nacional desagregado y lo estructura en formato limpio.
+    Devuelve el CSV crudo del IPC (validado) con ``indice_tiempo`` como datetime.
+
+    - Con ``cache_dir``: usa la caché en disco si tiene menos de ``ttl_horas`` (``forzar=True``
+      la ignora). Se guardan metadatos (fecha de descarga, URL) en un JSON junto al CSV.
+    - Si falla la red y existe caché vencida, se usa con una advertencia (logging.warning) y
+      el atributo ``df.attrs['aviso_cache_vencida']`` con la fecha de descarga original.
+    - Si no hay red ni caché, lanza ``ErrorDescargaINDEC``. Si el contenido no cumple el
+      esquema, lanza ``ErrorValidacionDatos``.
+    - ``df.attrs`` incluye 'url', 'fecha_descarga' y 'origen' ('red' | 'cache' | 'cache_vencida').
     """
-    if cache_dir and not os.path.exists(cache_dir):
+    url = url or URL_IPC_CAPITULOS
+    ruta_csv = ruta_meta = None
+    if cache_dir:
         os.makedirs(cache_dir, exist_ok=True)
-        
-    cache_file = os.path.join(cache_dir, "ipc_capitulos_raw.csv") if cache_dir else None
-    
-    if cache_file and os.path.exists(cache_file):
-        df_raw = pd.read_csv(cache_file)
+        ruta_csv = os.path.join(cache_dir, NOMBRE_CACHE_CSV)
+        ruta_meta = os.path.join(cache_dir, NOMBRE_CACHE_META)
+
+    meta = _leer_meta(ruta_meta) if ruta_meta else None
+    cache_existe = bool(ruta_csv and os.path.exists(ruta_csv))
+    edad_h = None
+    if cache_existe:
+        ts = meta.get("descargado_ts") if meta else None
+        if ts is None:
+            ts = os.path.getmtime(ruta_csv)
+        edad_h = (time.time() - ts) / 3600.0
+
+    origen, aviso = "red", None
+    if cache_existe and not forzar and edad_h is not None and edad_h <= ttl_horas:
+        texto = open(ruta_csv, encoding="utf-8").read()
+        origen = "cache"
+        fecha_desc = (meta or {}).get("descargado_iso") or pd.Timestamp(
+            os.path.getmtime(ruta_csv), unit="s").isoformat()
     else:
-        resp = requests.get(URL_IPC_CAPITULOS, verify=False, timeout=30)
-        resp.raise_for_status()
-        df_raw = pd.read_csv(io.StringIO(resp.text))
-        if cache_file:
-            df_raw.to_csv(cache_file, index=False)
-            
+        try:
+            texto = _descargar_texto(url)
+            fecha_desc = pd.Timestamp.now().isoformat(timespec="seconds")
+            if ruta_csv:
+                with open(ruta_csv, "w", encoding="utf-8") as f:
+                    f.write(texto)
+                with open(ruta_meta, "w", encoding="utf-8") as f:
+                    json.dump({"url": url, "descargado_iso": fecha_desc,
+                               "descargado_ts": time.time()}, f, indent=2)
+        except ErrorDescargaINDEC as e:
+            if not cache_existe:
+                raise
+            texto = open(ruta_csv, encoding="utf-8").read()
+            fecha_desc = (meta or {}).get("descargado_iso") or pd.Timestamp(
+                os.path.getmtime(ruta_csv), unit="s").isoformat()
+            origen = "cache_vencida"
+            aviso = (f"Sin acceso a la red ({e}). Se usa caché VENCIDA descargada el "
+                     f"{fecha_desc} (antigüedad {edad_h:.1f} h > TTL {ttl_horas} h).")
+            logger.warning(aviso)
+
+    import io
+    df_raw = pd.read_csv(io.StringIO(texto))
+    validar_esquema_raw(df_raw, list(CLASIFICACION_DIVISIONES.keys()))
     df_raw["indice_tiempo"] = pd.to_datetime(df_raw["indice_tiempo"])
+    df_raw.attrs.update({"url": url, "fecha_descarga": fecha_desc, "origen": origen})
+    if aviso:
+        df_raw.attrs["aviso_cache_vencida"] = aviso
     return df_raw
 
 
-def obtener_panel_capitulos(cache_dir: str = None) -> pd.DataFrame:
+def obtener_panel_capitulos(cache_dir: Optional[str] = None,
+                            ttl_horas: float = TTL_CACHE_HORAS_POR_DEFECTO) -> pd.DataFrame:
     """
-    Filtra las 12 divisiones canónicas nacionales y las formatea en panel largo.
+    Filtra las 12 divisiones canónicas nacionales y las formatea en panel largo
+    (balanceado, validado). ``df.attrs`` hereda url / fecha_descarga / origen.
     """
-    df_raw = descargar_series_indec(cache_dir=cache_dir)
+    df_raw = descargar_series_indec(cache_dir=cache_dir, ttl_horas=ttl_horas)
     cols = ["indice_tiempo"] + list(CLASIFICACION_DIVISIONES.keys())
     df_sub = df_raw[cols].copy()
-    
-    # Derretir a formato largo
+
     df_long = pd.melt(
-        df_sub,
-        id_vars=["indice_tiempo"],
-        value_vars=list(CLASIFICACION_DIVISIONES.keys()),
-        var_name="serie_id",
-        value_name="ipc_indice"
+        df_sub, id_vars=["indice_tiempo"], value_vars=list(CLASIFICACION_DIVISIONES.keys()),
+        var_name="serie_id", value_name="ipc_indice",
     )
-    
-    # Asignar metadata
     df_long["producto"] = df_long["serie_id"].map(lambda x: CLASIFICACION_DIVISIONES[x]["nombre_corto"])
     df_long["transable"] = df_long["serie_id"].map(lambda x: CLASIFICACION_DIVISIONES[x]["transable"])
     df_long["justificacion"] = df_long["serie_id"].map(lambda x: CLASIFICACION_DIVISIONES[x]["justificacion"])
     df_long = df_long.rename(columns={"indice_tiempo": "fecha"})
     df_long = df_long.sort_values(by=["producto", "fecha"]).reset_index(drop=True)
+    validar_panel(df_long, n_series=len(CLASIFICACION_DIVISIONES))
+    df_long.attrs.update(df_raw.attrs)
     return df_long
 
 
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO)
     print("Descargando y verificando series del IPC INDEC...")
     panel = obtener_panel_capitulos()
-    print("Muestra procesada:")
     print(panel.head(10))
-    print("\nCantidad de divisiones:", panel["producto"].nunique())
+    print("\nOrigen:", panel.attrs.get("origen"), "| URL:", panel.attrs.get("url"))
+    print("Cantidad de divisiones:", panel["producto"].nunique(), "| filas:", len(panel))
     print("Rango temporal:", panel["fecha"].min().strftime("%Y-%m"), "a", panel["fecha"].max().strftime("%Y-%m"))

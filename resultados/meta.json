@@ -1,0 +1,11 @@
+{
+  "ventana": 6,
+  "seed": 42,
+  "fecha_shock": "2023-12-01",
+  "motor_dictamen": "plantilla",
+  "error_llm": null,
+  "n_obs": 156,
+  "n_clusters": 12,
+  "aviso_gondola": "DATOS SIMULADOS: los precios de góndola de esta sección NO son observaciones reales. Se generan a partir de precios de referencia fijos y ruido aleatorio con semilla; la dispersión mostrada proviene de los parámetros de simulación y no es evidencia empírica.",
+  "wald_p_chi2": 0.2091398457659398
+}

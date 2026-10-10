@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mpt"
+version = "0.1.0"
+description = "Monitor de pass-through (Argentina): event study sobre el IPC INDEC por capitulos"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+    "pandas>=2.0,<3",
+    "numpy>=1.24,<3",
+    "requests>=2.31,<3",
+    "urllib3>=1.26,<3",
+    "linearmodels>=5.4,<8",
+    "scipy>=1.10,<2",
+    "matplotlib>=3.7,<4",
+]
+
+[project.optional-dependencies]
+app = ["streamlit>=1.30,<2", "plotly>=5.18,<8"]
+ia = ["openai>=1.10,<4"]
+robustez = ["wildboottest>=0.3,<1", "statsmodels>=0.14,<1"]
+dev = ["pytest>=8,<10", "ruff>=0.5,<1"]
+
+[tool.setuptools]
+packages = ["datos", "econometria", "ia", "app"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.ruff.lint]
+# Reglas de correccion (errores reales); el estilo (E/W/I) no bloquea el CI.
+select = ["F", "E9"]
