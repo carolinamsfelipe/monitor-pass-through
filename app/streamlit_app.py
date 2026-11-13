@@ -1,9 +1,10 @@
 """
 Dashboard Interactivo en Streamlit:
-Monitor Dual de Pass-Through Cambiario:
-1. Macroeconomía Aplicada: Estimación Agregada ARDL/UECM (INDEC / BCRA).
-2. Microeconomía Dinámica: Inferencia Causal TWFE Event Study (Bienes vs Servicios).
-3. Dispersión Calibrada y Auditoría Econométrica con IA.
+Monitor Dual de Pass-Through Cambiario e Inferencia Causal en Argentina.
+1. Macroeconomía Aplicada: ARDL / UECM con Series INDEC & BCRA.
+2. Diagnósticos de Residuos y Tests de Estacionariedad (ADF & KPSS).
+3. Microeconomía Dinámica: Event Study TWFE (Bienes vs Servicios - Dic 2023).
+4. Dispersión Calibrada y Auditoría Econométrica con IA.
 """
 
 import sys
@@ -22,7 +23,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Ajuste de rutas para importaciones locales
+# Ajuste de rutas locales
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 if BASE_DIR not in sys.path:
     sys.path.append(BASE_DIR)
@@ -51,7 +52,7 @@ st.sidebar.subheader("Parámetros Macro ARDL")
 max_rezagos_ardl = st.sidebar.slider("Rezagos máximos ARDL:", min_value=1, max_value=4, value=2)
 
 st.sidebar.subheader("Parámetros Micro Event Study")
-ventana_meses = st.sidebar.slider("Ventana de Evento ($\pm$ meses):", min_value=3, max_value=8, value=6)
+ventana_meses = st.sidebar.slider("Ventana de Evento (± meses):", min_value=3, max_value=8, value=6)
 
 # ==============================================================================
 # CARGA Y CACHÉ DE DATOS
@@ -76,8 +77,9 @@ Plataforma integral de econometría aplicada que combina:
 3. **Control y Calibración:** Dispersión empírica de precios y auditoría automatizada con IA.
 """)
 
-tab1, tab2, tab3, tab4, tab5 = st.tabs([
-    "🏛️ Macro ARDL (Traspaso Agregado)",
+tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
+    "🏛️ Macro ARDL (Traspaso)",
+    "🔬 Diagnósticos & Residuos",
     "📈 Inferencia Causal (Event Study)", 
     "🛒 Dispersión Calibrada", 
     "📊 Series Oficiales INDEC/BCRA", 
@@ -89,11 +91,13 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs([
 # ==============================================================================
 with tab1:
     st.subheader("1. Estimación ARDL / UECM de Pass-Through Agregado")
-    st.markdown("""
-    Modelo autoregresivo de rezagos distribuidos para el logaritmo del IPC Nacional ($\ln P_t$) en función del 
-    tipo de cambio oficial ($\ln E_t$) y la actividad económica ($\ln Y_t$ - EMAE):
-    $$\Delta \ln P_t = c + \sum_{i=1}^{p-1} \gamma_i \Delta \ln P_{t-i} + \sum_{j=0}^{q-1} \delta_j \Delta \ln E_{t-j} + \theta_1 \ln P_{t-1} + \theta_2 \ln E_{t-1} + \theta_3 \ln Y_{t-1} + \varepsilon_t$$
-    """)
+    st.markdown(
+        r"Modelo autorregresivo de rezagos distribuidos para el logaritmo del IPC Nacional ($\ln P_t$) en función del "
+        r"tipo de cambio oficial ($\ln E_t$) y la actividad económica ($\ln Y_t$ - EMAE):"
+    )
+    st.latex(
+        r"\Delta \ln P_t = c + \sum_{i=1}^{p-1} \gamma_i \Delta \ln P_{t-i} + \sum_{j=0}^{q-1} \delta_j \Delta \ln E_{t-j} + \theta_1 \ln P_{t-1} + \theta_2 \ln E_{t-1} + \theta_3 \ln Y_{t-1} + \varepsilon_t"
+    )
     
     res_ardl, diag_ardl, df_mult = estimar_erpt_ardl(df_macro, max_lags=max_rezagos_ardl)
     
@@ -101,7 +105,7 @@ with tab1:
     col_m1.metric("ERPT Corto Plazo (Impacto)", f"{diag_ardl['erpt_corto_plazo']*100:.2f}%")
     col_m2.metric("ERPT Largo Plazo (Acumulado)", f"{diag_ardl['erpt_largo_plazo']*100:.2f}%")
     col_m3.metric("Especificación", diag_ardl["orden_ardl"])
-    col_m4.metric("Ajuste $R^2$", f"{diag_ardl['r2']:.4f}")
+    col_m4.metric("Ajuste R²", f"{diag_ardl['r2']:.4f}")
     
     # Gráfico de Multiplicadores Dinámicos Acumulados
     fig_ardl = px.line(
@@ -112,31 +116,100 @@ with tab1:
         title="Trayectoria Dinámica del Pass-Through Acumulado (12 Meses Post-Shock)",
         labels={"mes": "Meses Transcurridos", "erpt_acumulado": "Elasticidad Acumulada"}
     )
-    fig_ardl.add_hline(y=diag_ardl['erpt_largo_plazo'], line_dash="dash", line_color="green", annotation_text="Elasticidad de Largo Plazo")
+    fig_ardl.add_hline(
+        y=diag_ardl['erpt_largo_plazo'], 
+        line_dash="dash", 
+        line_color="green", 
+        annotation_text=f"Elasticidad de Largo Plazo ({diag_ardl['erpt_largo_plazo']*100:.1f}%)"
+    )
     fig_ardl.update_layout(template="plotly_white", height=420)
     st.plotly_chart(fig_ardl, use_container_width=True)
     
-    with st.expander("Ver Diagnósticos Econométricos Formales del ARDL"):
-        d_col1, d_col2 = st.columns(2)
-        with d_col1:
-            st.write("**Tests de Residuos:**")
-            st.write(f"- Autocorrelación Breusch-Godfrey p-valor: `{diag_ardl['breusch_godfrey_pvalue']:.4f}`")
-            st.write(f"- Normalidad Jarque-Bera p-valor: `{diag_ardl['jarque_bera_pvalue']:.4f}`")
-            st.write(f"- Observaciones analizadas: `{diag_ardl['n_obs']}`")
-        with d_col2:
-            st.write("**Bounds Test de Cointegración (Pesaran et al., 2001 - Caso III):**")
-            st.write(f"- Estadístico F calculado: `{diag_ardl['bounds_test_f_stat']:.3f}`")
-            st.write(f"- Valor Crítico al 95% I(1): `{diag_ardl['bounds_cv_95_upper']:.3f}`")
-            if diag_ardl["cointegracion_confirmada"]:
-                st.success("Cointegración confirmada al 95% de confianza.")
-            else:
-                st.info("F-stat inferior al umbral superior asintótico: relación caracterizada por fuerte inercia nominal.")
+    # Gráfico Comparativo: Valores Observados vs. Ajustados por el Modelo
+    df_fit = pd.DataFrame({
+        "fecha": df_macro["fecha"].iloc[-len(res_ardl.fittedvalues):],
+        "Observado (ln IPC)": res_ardl.model.endog[-len(res_ardl.fittedvalues):],
+        "Ajustado (ARDL)": res_ardl.fittedvalues
+    })
+    
+    fig_fit = px.line(
+        df_fit,
+        x="fecha",
+        y=["Observado (ln IPC)", "Ajustado (ARDL)"],
+        title="Ajuste Histórico: Valores Observados vs. Predichos por el Modelo ARDL",
+        labels={"value": "Logaritmo del IPC", "fecha": "Fecha", "variable": "Serie"}
+    )
+    fig_fit.update_layout(template="plotly_white", height=380)
+    st.plotly_chart(fig_fit, use_container_width=True)
 
 # ==============================================================================
-# TAB 2: INFERENCIA CAUSAL (EVENT STUDY PANEL)
+# TAB 2: DIAGNÓSTICOS ECONOMÉTRICOS Y RESIDUOS
 # ==============================================================================
 with tab2:
-    st.subheader("2. Heterogeneidad Dinámica de Precios Relativos (TWFE PanelOLS)")
+    st.subheader("2. Batería de Diagnósticos y Validación de Supuestos")
+    st.markdown("Verificación rigurosa de estacionariedad, cointegración, ausencia de autocorrelación y normalidad de residuos.")
+    
+    # 1. Tabla de Tests de Raíz Unitaria (ADF & KPSS)
+    st.write("##### A. Tests de Orden de Integración y Estacionariedad")
+    series_a_testear = {
+        "Log IPC (Nivel)": df_macro["l_ipc"],
+        "Log Tipo de Cambio (Nivel)": df_macro["l_tc"],
+        "Log EMAE (Nivel)": df_macro["l_emae"],
+        "Inflación Mensual (Δ%)": df_macro["inflacion_mensual"],
+        "Devaluación Mensual (Δ%)": df_macro["devaluacion_mensual"]
+    }
+    
+    filas_tests = []
+    for nombre, s in series_a_testear.items():
+        t_res = evaluar_estacionariedad(s, nombre)
+        filas_tests.append({
+            "Variable": nombre,
+            "ADF Estadístico": f"{t_res['adf_stat']:.3f}",
+            "ADF p-valor": f"{t_res['adf_pvalue']:.4f}",
+            "KPSS Estadístico": f"{t_res['kpss_stat']:.3f}",
+            "KPSS p-valor": f"{t_res['kpss_pvalue']:.4f}",
+            "Diagnóstico": "I(0) Estacionaria" if t_res["i0_5pct"] else "I(1) Raíz Unitaria"
+        })
+    st.dataframe(pd.DataFrame(filas_tests), use_container_width=True)
+    
+    # 2. Residuos y Distribución
+    st.write("##### B. Análisis y Diagnóstico de Residuos del Modelo ARDL")
+    residuos = res_ardl.resid
+    fechas_resid = df_macro["fecha"].iloc[-len(residuos):]
+    
+    col_r1, col_r2 = st.columns(2)
+    with col_r1:
+        fig_resid = px.line(
+            x=fechas_resid, y=residuos,
+            title="Evolución Temporal de los Residuos",
+            labels={"x": "Fecha", "y": "Residuo (Error de Estimación)"}
+        )
+        fig_resid.add_hline(y=0, line_dash="dash", line_color="gray")
+        fig_resid.add_hline(y=2*np.std(residuos), line_dash="dot", line_color="red")
+        fig_resid.add_hline(y=-2*np.std(residuos), line_dash="dot", line_color="red")
+        fig_resid.update_layout(template="plotly_white", height=320)
+        st.plotly_chart(fig_resid, use_container_width=True)
+        
+    with col_r2:
+        fig_hist = px.histogram(
+            x=residuos, nbins=25, marginal="box",
+            title="Distribución de Residuos vs. Normal Teórica",
+            labels={"x": "Residuo"}
+        )
+        fig_hist.update_layout(template="plotly_white", height=320)
+        st.plotly_chart(fig_hist, use_container_width=True)
+        
+    # Métricas formales
+    d_col1, d_col2, d_col3 = st.columns(3)
+    d_col1.metric("Breusch-Godfrey (Autocorrelación)", f"p = {diag_ardl['breusch_godfrey_pvalue']:.4f}", "Sin autocorrelación" if diag_ardl['breusch_godfrey_pvalue'] > 0.05 else "Alerta")
+    d_col2.metric("Jarque-Bera (Normalidad)", f"p = {diag_ardl['jarque_bera_pvalue']:.4f}")
+    d_col3.metric("Bounds Test F-Stat", f"{diag_ardl['bounds_test_f_stat']:.3f}", f"Crítico 95%: {diag_ardl['bounds_cv_95_upper']:.3f}")
+
+# ==============================================================================
+# TAB 3: INFERENCIA CAUSAL (EVENT STUDY PANEL)
+# ==============================================================================
+with tab3:
+    st.subheader("3. Heterogeneidad Dinámica de Precios Relativos (TWFE PanelOLS)")
     df_panel, covars = preparar_panel_event_study(
         df_micro, 
         fecha_shock="2023-12-01", 
@@ -150,7 +223,7 @@ with tab2:
     stat_wald = float(wald_test.stat)
     
     col1, col2, col3 = st.columns(3)
-    col1.metric("Estadístico Wald $\chi^2(Pre)$", f"{stat_wald:.2f}")
+    col1.metric("Estadístico Wald χ²(Pre)", f"{stat_wald:.2f}")
     col2.metric("p-valor Pre-tendencias", f"{p_val_wald:.4f}")
     if p_val_wald > 0.05:
         col3.success("Tendencias Paralelas Válidas (p > 0.05)")
@@ -173,7 +246,7 @@ with tab2:
     fig_event.add_trace(go.Scatter(
         x=df_coef["tau"], y=df_coef["beta"],
         mode="lines+markers", line=dict(color="#1f77b4", width=2.5),
-        marker=dict(size=8, color="#1f77b4"), name=r"Efecto Diferencial beta_tau"
+        marker=dict(size=8, color="#1f77b4"), name="Efecto Diferencial β_τ"
     ))
     fig_event.update_layout(
         title="Divergencia Transables vs. No Transables alrededor del Salto Cambiario",
@@ -185,10 +258,10 @@ with tab2:
     st.plotly_chart(fig_event, use_container_width=True)
 
 # ==============================================================================
-# TAB 3: DISPERSIÓN CALIBRADA
+# TAB 4: DISPERSIÓN CALIBRADA
 # ==============================================================================
-with tab3:
-    st.subheader("3. Dispersión Minorista Calibrada")
+with tab4:
+    st.subheader("4. Dispersión Minorista Calibrada")
     st.info("Aviso metodológico: este módulo presenta una calibración de precios minoristas con dispersión log-normal para ilustrar desvíos estándar relativos entre transables y servicios.")
     df_gondola = capturar_canasta_precios(simular_variaciones=True)
     df_disp = calcular_metricas_dispersion(df_gondola)
@@ -210,10 +283,10 @@ with tab3:
         st.plotly_chart(fig_box, use_container_width=True)
 
 # ==============================================================================
-# TAB 4: SERIES OFICIALES INDEC/BCRA
+# TAB 5: SERIES OFICIALES INDEC/BCRA
 # ==============================================================================
-with tab4:
-    st.subheader("4. Evolución de Series Macroeconómicas Oficiales")
+with tab5:
+    st.subheader("5. Evolución de Series Macroeconómicas Oficiales")
     fig_macro = px.line(
         df_macro,
         x="fecha",
@@ -225,10 +298,10 @@ with tab4:
     st.plotly_chart(fig_macro, use_container_width=True)
 
 # ==============================================================================
-# TAB 5: AUDITOR ECONOMÉTRICO IA
+# TAB 6: AUDITOR ECONOMÉTRICO IA
 # ==============================================================================
-with tab5:
-    st.subheader("5. Dictamen y Auditoría Econométrica")
+with tab6:
+    st.subheader("6. Dictamen y Auditoría Econométrica")
     st.markdown("Auditoría automatizada de los parámetros estimados bajo estándares del *Journal of Applied Econometrics*.")
     
     if st.button("Generar / Actualizar Dictamen Econométrico", type="primary"):
