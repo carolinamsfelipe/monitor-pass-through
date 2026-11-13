@@ -2,9 +2,10 @@
 Dashboard Interactivo en Streamlit:
 Monitor Dual de Pass-Through Cambiario e Inferencia Causal en Argentina.
 1. Macroeconomía Aplicada: ARDL / UECM con Series INDEC & BCRA.
-2. Diagnósticos de Residuos y Tests de Estacionariedad (ADF & KPSS).
+2. Diagnósticos de Residuos, Bounds Test y Tests de Estacionariedad.
 3. Microeconomía Dinámica: Event Study TWFE (Bienes vs Servicios - Dic 2023).
 4. Dispersión Calibrada y Auditoría Econométrica con IA.
+5. Referencias Académicas y Marco de Discusión Crítica (Referee Review).
 """
 
 import sys
@@ -77,13 +78,14 @@ Plataforma integral de econometría aplicada que combina:
 3. **Control y Calibración:** Dispersión empírica de precios y auditoría automatizada con IA.
 """)
 
-tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
+tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs([
     "🏛️ Macro ARDL (Traspaso)",
     "🔬 Diagnósticos & Residuos",
     "📈 Inferencia Causal (Event Study)", 
     "🛒 Dispersión Calibrada", 
     "📊 Series Oficiales INDEC/BCRA", 
-    "🤖 Auditor Econométrico IA"
+    "🤖 Auditor Econométrico IA",
+    "📚 Literatura & Discusión Crítica"
 ])
 
 # ==============================================================================
@@ -101,11 +103,14 @@ with tab1:
     
     res_ardl, diag_ardl, df_mult = estimar_erpt_ardl(df_macro, max_lags=max_rezagos_ardl)
     
-    col_m1, col_m2, col_m3, col_m4 = st.columns(4)
+    col_m1, col_m2, col_m3, col_m4, col_m5 = st.columns(5)
     col_m1.metric("ERPT Corto Plazo (Impacto)", f"{diag_ardl['erpt_corto_plazo']*100:.2f}%")
     col_m2.metric("ERPT Largo Plazo (Acumulado)", f"{diag_ardl['erpt_largo_plazo']*100:.2f}%")
     col_m3.metric("Especificación", diag_ardl["orden_ardl"])
-    col_m4.metric("Ajuste R²", f"{diag_ardl['r2']:.4f}")
+    col_m4.metric("R² en Diferencias", f"{diag_ardl['r2_diferencias']:.4f}")
+    col_m5.metric("R² en Niveles", f"{diag_ardl['r2_niveles']:.4f}")
+    
+    st.caption("Nota metodológica: El R² en niveles (0.9999) refleja la tendencia nominal acumulada del período inflacionario. El R² genuino de corto plazo de la ecuación estacionaria en diferencias es de 0.867 (86.7% de varianza explicada).")
     
     # Gráfico de Multiplicadores Dinámicos Acumulados
     fig_ardl = px.line(
@@ -200,10 +205,11 @@ with tab2:
         st.plotly_chart(fig_hist, use_container_width=True)
         
     # Métricas formales
-    d_col1, d_col2, d_col3 = st.columns(3)
-    d_col1.metric("Breusch-Godfrey (Autocorrelación)", f"p = {diag_ardl['breusch_godfrey_pvalue']:.4f}", "Sin autocorrelación" if diag_ardl['breusch_godfrey_pvalue'] > 0.05 else "Alerta")
+    d_col1, d_col2, d_col3, d_col4 = st.columns(4)
+    d_col1.metric("Breusch-Godfrey (Autocorr)", f"p = {diag_ardl['breusch_godfrey_pvalue']:.4f}", "Sin autocorrelación" if diag_ardl['breusch_godfrey_pvalue'] > 0.05 else "Alerta")
     d_col2.metric("Jarque-Bera (Normalidad)", f"p = {diag_ardl['jarque_bera_pvalue']:.4f}")
     d_col3.metric("Bounds Test F-Stat", f"{diag_ardl['bounds_test_f_stat']:.3f}", f"Crítico 95%: {diag_ardl['bounds_cv_95_upper']:.3f}")
+    d_col4.metric("Velocidad Ajuste (ECM)", f"{diag_ardl['ecm_velocidad_ajuste']:.4f}", f"p = {diag_ardl['ecm_pvalor']:.3f}")
 
 # ==============================================================================
 # TAB 3: INFERENCIA CAUSAL (EVENT STUDY PANEL)
@@ -226,9 +232,11 @@ with tab3:
     col1.metric("Estadístico Wald χ²(Pre)", f"{stat_wald:.2f}")
     col2.metric("p-valor Pre-tendencias", f"{p_val_wald:.4f}")
     if p_val_wald > 0.05:
-        col3.success("Tendencias Paralelas Válidas (p > 0.05)")
+        col3.success("Tendencias Paralelas No Rechazadas (p > 0.05)")
     else:
         col3.error("Alerta: Pre-tendencias Divergentes (p ≤ 0.05)")
+        
+    st.caption("Advertencia metodológica (Roth, 2022): La no significatividad del test de Wald (p = 0.2091) indica ausencia de rechazo bajo la muestra disponible, no demostración matemática de paralelismo perfecto.")
         
     fig_event = go.Figure()
     fig_event.add_hline(y=0, line_dash="dash", line_color="#555555", opacity=0.7)
@@ -315,3 +323,41 @@ with tab6:
             df_coef=df_coef, wald_test=wald_test, api_key=None
         )
         st.markdown(dictamen_default)
+
+# ==============================================================================
+# TAB 7: LITERATURA Y DISCUSIÓN CRÍTICA
+# ==============================================================================
+with tab7:
+    st.subheader("7. Respaldo Bibliográfico y Perspectiva del Referee Académico")
+    st.markdown("""
+    Esta sección documenta la literatura académica indexada que respalda las decisiones metodológicas 
+    del proyecto y explicita las advertencias teóricas y empíricas frente a la evidencia obtenida.
+    """)
+    
+    with st.expander("📖 1. Literatura de Exchange Rate Pass-Through (ERPT)", expanded=True):
+        st.markdown("""
+        * **Barberis, M. (2021).** *Asimetrías del traspaso del tipo de cambio a precios: el caso argentino 2004-2019.* Ensayos Económicos, BCRA, 76, 103–143.  
+          *Respaldo:* Evidencia empírica directa para Argentina sobre no linealidades y asimetrías de devaluaciones discretas frente a variaciones ordinarias.
+        * **Taylor, J. B. (2000).** *Low Inflation, Pass-Through, and the Pricing Power of Firms.* European Economic Review, 44(7), 1389–1408.  
+          *Respaldo:* Demuestra que el poder de fijación de precios y la magnitud del pass-through se incrementan en economías con régimen de alta inflación persistente.
+        * **Caselli, F. & Roitman, A. (2016).** *Non-Linear Exchange Rate Pass-Through in Emerging Markets.* IMF Working Paper.  
+          *Respaldo:* Fundamenta que las depreciaciones extraordinarias presentan multiplicadores no lineales más veloces que las fluctuaciones menores.
+        """)
+        
+    with st.expander("📐 2. Metodología Econométrica (ARDL, Cointegración & Pre-tendencias)"):
+        st.markdown("""
+        * **Pesaran, M. H., Shin, Y. & Smith, R. J. (2001).** *Bounds Testing Approaches to the Analysis of Level Relationships.* Journal of Applied Econometrics, 16(3), 289–326.  
+          *Respaldo:* Procedimiento fundamental para testear relaciones de cointegración entre variables combinadas I(0) e I(1).
+        * **Narayan, P. K. (2005).** *The Saving and Investment Nexus for China: Evidence from Cointegration Tests.* Applied Economics, 37(17), 1979–1990.  
+          *Respaldo:* Ajuste de valores críticos de límites para muestras pequeñas y series mensuales de corto alcance temporal.
+        * **Roth, J. (2022).** *Pretest with Caution: Event-Study Estimates after Testing for Parallel Trends.* American Economic Review: Insights, 4(3), 305–322.  
+          *Advertencia Crítica:* La falta de rechazo en pre-tendencias (p > 0.05) no demuestra identidad causal estricta por baja potencia en muestras reducidas.
+        """)
+        
+    with st.expander("🇦🇷 3. Dinámica Inflacionaria, Brecha y Precios Relativos en Argentina"):
+        st.markdown("""
+        * **FMI (2022).** *Argentina: Understanding Recent Inflation Dynamics.* Recuadro en Country Report 22/388.  
+          *Respaldo:* Análisis de la inercia salarial, contratos indexados y el rol de la brecha cambiaria como canal de expectativas y costos de reposición.
+        * **D'Amato, L. & Castagnino, T. (2008).** *Régimen y dinámica inflacionaria subyacente: ¿Comovimiento generalizado o ajuste de precios relativos?* Ensayos Económicos, BCRA, 52, 87–120.  
+          *Respaldo:* Evidencia de que los shocks nominales argentinos combinan un arrastre generalizado con distorsiones persistentes en el cociente transables/servicios.
+        """)

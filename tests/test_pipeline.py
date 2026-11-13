@@ -9,7 +9,6 @@ import pytest
 import numpy as np
 import pandas as pd
 
-# Incorporar raíz del proyecto al sys.path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 from datos.api_macro_series import descargar_series_macro
@@ -44,7 +43,8 @@ def test_estimacion_ardl_erpt():
     assert diag["erpt_corto_plazo"] > 0.0, "El ERPT de impacto inmediato debe ser positivo."
     assert diag["erpt_largo_plazo"] > 0.0, "El ERPT acumulado de largo plazo debe ser positivo."
     assert len(mult) == 13, "Deben generarse 13 meses de multiplicadores dinámicos (0 a 12)."
-    assert diag["r2"] > 0.90, "El modelo debe tener un R2 elevado por ajuste histórico."
+    assert diag["r2_niveles"] > 0.90, "El modelo en niveles debe tener un R2 elevado por ajuste histórico."
+    assert diag["r2_diferencias"] > 0.60, "El modelo en diferencias de corto plazo debe superar el 60% de varianza explicada."
 
 
 def test_simulacion_dispersion_reproducible():
